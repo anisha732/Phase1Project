@@ -1,0 +1,510 @@
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,uazg6WhYVOw3jhWCG_MDBg,Sup Thai Kitchen,178-19 Union Tpke,4.5,$$,11366,True,True,False,374,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+1,cegA4jf16vEt7NCQ7cpu2w,Kin'd,192-03 Union Tpke,4.5,$$,11366,True,True,False,768,"[{'alias': 'thai', 'title': 'Thai'}]",False
+2,0L03onqNwxWLrbb_FCK79A,SriPraPhai Thai Restaurant,64-13 39th Ave,4.0,$$,11377,False,False,False,2380,"[{'alias': 'thai', 'title': 'Thai'}]",False
+3,gr3wUszE1972q0GBkmwEXQ,Bangkok Cuisine,10718 70th Rd,4.0,$$,11375,True,True,False,421,"[{'alias': 'thai', 'title': 'Thai'}]",False
+4,jMb34zhfkqoW866F10hf1Q,Grace Thai Restaurant,5617 Junction Blvd,4.5,,11373,True,True,False,52,"[{'alias': 'thai', 'title': 'Thai'}]",False
+5,1ubEg-rrSE8IWXl6lJzIGw,Nur Thai,63-32 Woodhaven Blvd,4.0,$$,11374,True,True,False,561,"[{'alias': 'thai', 'title': 'Thai'}]",False
+6,3GMHPnrkFAcqffw3T7JSdQ,Kitchen 79,37-70 79th St,4.5,$$,11372,True,True,False,629,"[{'alias': 'thai', 'title': 'Thai'}]",False
+7,-YazuZbXAM_NOny8LpLQpQ,BKNY Thai Restaurant,47-11 Francis Lewis Blvd,4.0,$$,11361,False,True,False,1317,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'salad', 'title': 'Salad'}]",False
+8,fRO4Fwe5uRAajMcTwLbVkA,Ayada Thai,7708 Woodside Ave,4.0,$$,11373,True,True,False,1224,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+9,1E7lCNaRAM1Da0vkt5rcvw,Thai Mission,70-11 Grand Ave,5.0,,11378,True,True,False,35,"[{'alias': 'thai', 'title': 'Thai'}]",False
+10,OVAV0k2O1kqeuRFyt95qzg,Ma Kin,7419 Metropolitan Ave,4.5,,11379,True,True,False,92,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+11,a-Bq_yXFVk2PptoWpmry3w,Pye Boat Noodle,35-13 Broadway,4.5,$$,11106,False,True,False,838,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+12,oNN202L_XcNM-tuDHlgkfg,Boon Chu Thai Place,83-18 Broadway,4.0,$,11373,True,True,False,313,"[{'alias': 'thai', 'title': 'Thai'}]",False
+13,hA5QUlrSjpxMZ90Kof0bgA,Khao Kang,7620 Woodside Ave,4.0,$,11373,True,True,False,244,"[{'alias': 'thai', 'title': 'Thai'}]",False
+14,PPQSf_1JWkbjFHi1S0nSNA,Lamoon,8140 Broadway,4.5,$$,11373,True,True,False,268,"[{'alias': 'thai', 'title': 'Thai'}]",False
+15,Ve_iFpnhL8zN789ZL2jnxQ,UThai,63-55 Wetherole St,4.0,$,11374,True,True,False,219,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+16,STx4mlpKJVrjd6eZu4yDIw,Heng Thai,23-06 Jackson Ave,4.5,,11101,True,True,False,11,"[{'alias': 'thai', 'title': 'Thai'}]",False
+17,tVB11pOiDhPWlt_o6ylMNg,Enthaice Thai Kitchen,33-20 31st Ave,4.0,$$,11106,True,True,False,696,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",False
+18,inftQdKaEEiqQ323AlomXg,Dek Sen,8608 Whitney Ave,4.0,$$,11373,True,True,False,278,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+19,5pzc2GdvdmqiLRSdjHnnKw,Bangkok Avenue,253-21 Northern Blvd,5.0,$$,11362,True,True,False,87,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+20,1svF14BUYt_Wc0XA3nMxdw,Cha Lom Thai,33-47 Francis Lewis Blvd,4.5,$$,11358,True,True,False,59,"[{'alias': 'thai', 'title': 'Thai'}]",False
+21,CpY77cDN1KS5EdiXMmWovw,House of Thai,2501 40th Ave,4.0,$$,11101,True,True,False,301,"[{'alias': 'thai', 'title': 'Thai'}]",False
+22,a23bfZBVjIhV32Em4hKHAA,The Buffs,1313 40th Ave,4.5,$$,11101,True,True,False,106,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'ramen', 'title': 'Ramen'}]",False
+23,PyaeHq_UAu6nazGiy0XAnw,Ginger and Lemongrass,1253 150th St,4.0,$$,11357,True,True,False,802,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+24,yCJHIM-PWl54K53ACOpoNg,Hug Esan,77-16 Woodside Ave,4.5,$$,11373,True,True,False,169,"[{'alias': 'thai', 'title': 'Thai'}]",False
+25,m2_ZNFos5ugAwe8ft8eaEw,Eim Khao Mun Kai Elmhurst,81-32 Broadway,4.5,$,11373,False,False,False,456,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'hainan', 'title': 'Hainan'}]",False
+26,kXuubLd6s3GidpqU3psPdw,Chao Thai,8503 Whitney Ave,4.0,$$,11373,True,True,False,379,"[{'alias': 'thai', 'title': 'Thai'}]",False
+27,a5H9p1B6m6WPVjakPylvdA,Spicy Shallot,7701 Woodside Ave,4.0,$$,11373,True,True,False,634,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'bars', 'title': 'Bars'}]",False
+28,zRQNaDUoWTInc2tqndSJVA,Thai 101,39-15 Bell Blvd,3.5,$$,11361,True,True,False,307,"[{'alias': 'thai', 'title': 'Thai'}]",False
+29,rehmlZmUNL2AthW-VTXJJQ,Tasty Thai,72-04 Forest Ave,4.0,$,11385,True,True,False,87,"[{'alias': 'thai', 'title': 'Thai'}]",False
+30,YMcDo3UccCPvIJrQ5Yt9Yw,Chám Thai Cuisine,881 Woodward Ave,3.5,$$,11385,True,True,False,48,"[{'alias': 'thai', 'title': 'Thai'}]",False
+31,OR9oqAJW-U5ZnqhwH12Nuw,Khao Nom,42-06 77th St,4.5,$$,11373,True,True,False,116,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",False
+32,wEawMdWT7UtZjEmmMTBiGA,Saranrom Thai,8110 Broadway,4.5,,11373,True,True,False,33,"[{'alias': 'thai', 'title': 'Thai'}]",False
+33,toykv8K0yg8qtvZSXRQ5bg,Pochana Thai Kitchen,33-16 30th Ave,4.0,$$,11103,True,True,False,193,"[{'alias': 'thai', 'title': 'Thai'}]",False
+34,dnCRiUZWgu5ZI4Q-Z-az6Q,Thai Diva Cuisine,45-53 46th St,4.0,$$,11377,True,True,False,140,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'soup', 'title': 'Soup'}]",False
+35,ipxeCjihDqXTMkuPe-CQ4A,Arunee Thai,78-23 37th Ave,4.0,$$,11372,True,True,False,317,"[{'alias': 'thai', 'title': 'Thai'}]",False
+36,Eyn7hQENF8R9DrBwBHO6lQ,Pata Cafe,5614 Van Horn St,4.5,$$,11373,True,True,False,73,"[{'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'thai', 'title': 'Thai'}]",False
+37,1wdJ1vJR_Z1vJebQGlZU3Q,Krung Tep Thai Bistro,23 S Middle Neck Rd,4.0,$$,11021,True,True,False,223,"[{'alias': 'thai', 'title': 'Thai'}]",False
+38,JX5QkNfMd-jP-Nz5iQ_QeA,Thai Nara Halal Restaurant,64-02 35th Ave,4.5,$$,11377,True,True,False,50,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'halal', 'title': 'Halal'}]",False
+39,2ZBEE_MJeRdLD1NLiNTnCQ,Thailand's Center Point,63-19 39th Ave,4.0,$$,11377,True,True,False,196,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}]",False
+40,ET4xGd-SQ6gs9lce4xVpQg,Tum Thai Cuisine,274 Merrick Rd,4.5,$$,11570,False,True,False,643,"[{'alias': 'thai', 'title': 'Thai'}]",False
+41,nu239sXQUGjcGFhZ3AdJmQ,Erawan Thai Cuisine,4231 Bell Blvd,3.5,$$,11361,True,True,False,346,"[{'alias': 'thai', 'title': 'Thai'}]",False
+42,2pJ782hnKTK0MWbc0H7EDw,Ditmars Thai,35-13 Ditmars Blvd,5.0,,11105,True,True,False,12,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+43,QWskQ2QpR8bmza2FRFziOQ,Asian Fortune Restaurant,103-35 Queens Blvd,4.0,$$,11375,True,True,False,115,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+44,khvnn7cpiYSpe80ue5YLvg,Ddee Thai,42-06 30th Ave,4.5,$$,11103,True,True,False,37,"[{'alias': 'thai', 'title': 'Thai'}]",False
+45,MxMWPaC30sRkPKit_Omz2A,Khun Noo Thai Noodle House,51-20 Skillman Ave,4.5,,11377,True,True,False,51,"[{'alias': 'thai', 'title': 'Thai'}]",False
+46,YIgBb6jb_KV0-nbYZ1oPig,BARN NA THAI,6402 Fresh Pond Rd,4.5,,11385,True,True,False,16,"[{'alias': 'thai', 'title': 'Thai'}]",False
+47,SkYcO8FaqYgoP-66g58OMw,Thai Pot,103-07 Queens Blvd,3.0,$$,11375,True,True,False,247,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,qrydcGQpeDP_1oFvx3qOeg,Somtum Der,85 Ave A,4.0,$$,10009,True,True,False,753,"[{'alias': 'thai', 'title': 'Thai'}]",False
+49,D-gd1Gb_Nmc2MN6G0KANMg,San Aroy Thai Kitchen,2906 23rd Ave,4.0,$$,11105,True,True,False,115,"[{'alias': 'thai', 'title': 'Thai'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,zENn0_yDJEdLoHyivXb2xw,Black Thai,81-16 Northern Blvd,4.0,$$,11372,True,True,False,290,"[{'alias': 'thai', 'title': 'Thai'}]",False
+1,bjf8vmAIrdPo1aHoaYPkBw,Sweet Basil,39-28 61st St,4.0,$$,11377,True,True,False,145,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+2,cmssS5DPbF6Yv-EJdKVm_w,Khantong Thai Kitchen,57-17 Roosevelt Ave,4.5,,11377,True,True,False,12,"[{'alias': 'thai', 'title': 'Thai'}]",False
+3,RSZITLOyKCsvCKLJNiE3Hg,Thai House Cuisine,116-03 Metropolitan Ave,3.5,$$,11418,True,True,False,56,"[{'alias': 'thai', 'title': 'Thai'}]",False
+4,shHhP5lfZwrAYFL3K04_lg,Hero Thai-Izakaya,34-16 Broadway,4.0,$$,11106,True,True,False,117,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'izakaya', 'title': 'Izakaya'}]",False
+5,B3_K2kUVbYOU0VaLcj_LTw,Thai Villa,5 E 19th St,4.5,$$,10003,True,True,False,3549,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+6,8-dc942sz-prIeepAkHLJA,Zenith Thai Restaurant,7002 Fresh Pond Rd,4.0,$$,11385,True,True,False,114,"[{'alias': 'thai', 'title': 'Thai'}]",False
+7,9WgsvzaiXNAmmQGD0uQxFQ,Thai Holic,372 Myrtle Ave,4.5,$$,11205,True,True,False,455,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}]",False
+8,1BJo1JcwYHUuk-UfJLEwUQ,Vera Thai Restaurant,43-01 Queens Blvd,3.0,$$,11104,True,True,False,59,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,9HwsZNvviqdJYzFICHlDcQ,Chingri Restaurant,30-78 Steinway St,4.5,,11103,True,True,False,57,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'halal', 'title': 'Halal'}, {'alias': 'thai', 'title': 'Thai'}]",False
+10,HzJP6ICu_Naf5R0swzd-dg,Amina Thai,169-22 Hillside Ave,3.5,$$,11432,True,True,False,152,"[{'alias': 'thai', 'title': 'Thai'}]",False
+11,WFx1VcopQGjW7jbERZUUbA,Tommy Thai,85-32 Grand Ave,4.0,$$,11373,True,True,False,153,"[{'alias': 'thai', 'title': 'Thai'}]",False
+12,2wxwpJs4ZrgniJH6Cst-bA,Mr. Thai,57-42 Myrtle Ave,4.0,,11385,True,True,False,55,"[{'alias': 'thai', 'title': 'Thai'}]",False
+13,mpD_kUFo8POQDLoLgRSfCg,SAGE,299-301 Graham Ave,3.5,$$,11211,True,True,False,607,"[{'alias': 'thai', 'title': 'Thai'}]",False
+14,7rTl_d-dqlK5dGG31ogSBg,Nanking,134-07 Rockaway Blvd,4.0,$$,11420,True,True,False,356,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'chinese', 'title': 'Chinese'}]",False
+15,yzbIUIeDuSH58WgK32J7Fw,Thonglor Thai Formerly Red Basil Thai Kitchen,3247 Steinway St,4.0,$$,11103,True,True,False,22,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'seafood', 'title': 'Seafood'}]",False
+16,SOrQnn_dsHIFpmW5HTCFCw,Ocha Thai Cusine,124-32 Queens Blvd,3.5,$,11415,True,True,False,51,"[{'alias': 'thai', 'title': 'Thai'}]",False
+17,A930LBKMD5I6fjwT8QAokQ,Baifern Noodles,78-14 Roosevelt Ave,5.0,,11372,True,True,False,1,"[{'alias': 'thai', 'title': 'Thai'}]",False
+18,f7jZvRH-h76F4emzvKytaQ,Tuk Tuk,4906 Vernon Blvd,4.0,$$,11101,False,True,False,697,"[{'alias': 'thai', 'title': 'Thai'}]",False
+19,4M-nT45SdA119-lcJg9c9A,Sabay Thai Restaurant,75-19 Broadway,4.0,$$,11373,True,True,False,131,"[{'alias': 'thai', 'title': 'Thai'}]",False
+20,SZQqAil4kuXhNCLR7_6khg,Playground Bar & Bistro And Taitoon Thai Karaoke,7130 Roosevelt Ave,4.0,$$,11372,False,False,False,200,"[{'alias': 'karaoke', 'title': 'Karaoke'}, {'alias': 'thai', 'title': 'Thai'}]",False
+21,utg1E8cea7vY5VuDyoOthA,Sompong Thai,3709 83rd St,4.0,$$,11372,True,True,False,121,"[{'alias': 'thai', 'title': 'Thai'}]",False
+22,kLvz8Erjz296xNC4huUxfQ,Thai Express,136-20 Roosevelt Ave,4.0,$$,11354,True,True,False,36,"[{'alias': 'thai', 'title': 'Thai'}]",False
+23,XgiG7K7ubHsj2JJ-c2sXnw,Thai Diner,186 Mott St,4.0,$$,10012,False,True,False,110,"[{'alias': 'thai', 'title': 'Thai'}]",False
+24,0gMp5__7rq2csBndxnNtGQ,Star of Siam Thai Kitchen,103-18 Metropolitan Ave,3.0,$$,11375,True,True,False,108,"[{'alias': 'thai', 'title': 'Thai'}]",False
+25,n20BmzZ-KGd0RCKcPGRv1A,Klom Klorm,181 Wyckoff Ave,4.5,$$,11237,True,True,False,293,"[{'alias': 'thai', 'title': 'Thai'}]",False
+26,mU1ctN2chR3U3__d_Zjcng,Maple Thai Eatery,3602 36th Ave,4.0,,11106,True,True,False,43,"[{'alias': 'thai', 'title': 'Thai'}]",False
+27,Tk605KjXVTnXpGkOSuVBaQ,Asian Garden,84-17 Jamaica Ave,4.0,$$,11421,True,True,False,26,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'chinese', 'title': 'Chinese'}]",False
+28,W1L0UB1MvlhvkKTF43emSA,Jaew Hon New York,71-30 Roosevelt Ave,4.5,$$,11372,True,True,False,184,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'hotpot', 'title': 'Hot Pot'}]",False
+29,_ArDQIKj5qHgmwNnnIaIIg,I Am Thai Restaurant,49-08 43rd Ave,4.0,$$,11377,False,False,False,286,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'vegan', 'title': 'Vegan'}]",False
+30,G6qaJ9pIfUbf-uCIFZQ3cg,Khao Ka Moo,8202 45th Ave,4.5,,11373,True,True,False,12,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",False
+31,sSkLiIMnOBaN-XKwV5r3Cg,Spice,4745 Vernon Blvd,3.0,$$,11101,True,True,False,290,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+32,fZhPkKCYGWjEDgRZCNRnfg,Sriprai Honey’s Thai Kitchen,3036 Westchester Ave,4.5,,10461,False,False,False,15,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",False
+33,liGIz8CzhyS1udx1aefjng,Williamsburg Thai Cuisine,212 Bedford Ave,4.0,$$,11249,True,True,False,238,"[{'alias': 'thai', 'title': 'Thai'}]",False
+34,UO4kyXfdQIlAhM-TRgM9cw,Look By Plant Love House,622 Washington Ave,4.0,$$,11238,True,True,False,329,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'desserts', 'title': 'Desserts'}]",False
+35,Io54KD1yQK6M6BQc8WTAeA,Thai Taste,26-36 Jackson Ave,4.5,,11101,False,False,False,12,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",False
+36,3n6i8TwGEIL9KnCCHUyiqA,Sai,95-34 Queens Blvd,5.0,$$,11374,True,True,False,185,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",False
+37,MhceeLrM2_3mcKw5EGLY6A,Pure Thai Cookhouse,766 9th Ave,4.0,$$,10019,True,True,False,2566,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",False
+38,rCtsqHtOAOjZ7EUQDFRSbA,Pinto Garden,117 W 10th St,4.0,$$,10011,True,True,False,260,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+39,QVWmn5jmy_TPmg0G71Dk5g,Sea,114 N 6th St,3.5,$$,11211,True,True,False,3140,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+40,iBfIEBwhBBpM7WqcLlWAbg,Seeda Thai Restaurant,28 N Central Ave,3.5,$$,11580,False,True,False,196,"[{'alias': 'thai', 'title': 'Thai'}]",False
+41,2ds0ggRpf35-3UI3c4aBnw,SriPraPhai Thai Restaurant,280 Hillside Ave,3.5,$$,11596,False,True,False,522,"[{'alias': 'thai', 'title': 'Thai'}]",False
+42,-OixbLnFLCzQclxCSbUQ8w,Up Thai,1411 2nd Ave,4.5,$$,10021,True,True,False,2382,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+43,tk_hI5v8KufzFaIP57_57g,Golden Thai,469 Irving Ave,3.0,$$,11237,True,True,False,96,"[{'alias': 'thai', 'title': 'Thai'}]",False
+44,qtRPV9YANKcXU3OzcUUokw,River Thai Food,24 Hilliard Ave,3.5,$$,07020,True,True,False,213,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+45,jjJc_CrkB2HodEinB6cWww,LoveMama,174 2nd Ave,4.5,$$,10003,True,True,False,5198,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+46,HU7ILuZTmGZ6F_z6ZpHQfw,Thaan,84-22 37th Ave,4.5,,11372,True,True,False,26,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+47,VoAuIReq_cPUrFwxbWqG_Q,SalaThai Restaurant,307 Amsterdam Ave,4.5,$$,10023,True,True,False,401,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,w2KbJ8BWrW6NZ0cLg2ASQg,Thai Chic Bistro,1241-1243 Broadway,5.0,,11557,True,True,False,27,"[{'alias': 'thai', 'title': 'Thai'}]",False
+49,uVoFnGvcwk2wSNwATtuf8g,Thai Hot Box,1598 3rd Ave,5.0,,10128,True,True,False,9,"[{'alias': 'thai', 'title': 'Thai'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,NN3mOWF5e_pnR1ArqM2bHQ,OBAO,647 9th Ave,4.0,$$,10036,True,True,False,2638,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+1,kiKUF11kNgEnM__P11nrig,Tea Cup Cafe,76-23 Woodside Ave,4.0,$,11377,False,True,False,125,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'thai', 'title': 'Thai'}]",False
+2,EjuI8hyZO4jREWj3BTh8gw,Mr Khao Man Gai,,5.0,,11101,False,False,False,22,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'hainan', 'title': 'Hainan'}, {'alias': 'thai', 'title': 'Thai'}]",False
+3,Tk605KjXVTnXpGkOSuVBaQ,Asian Garden,84-17 Jamaica Ave,4.0,$$,11421,True,True,False,26,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'chinese', 'title': 'Chinese'}]",False
+4,eGIY_25KFspf8KefDQMj-Q,Lan Larb,637 2nd Ave,4.0,$$,10016,True,True,False,305,"[{'alias': 'thai', 'title': 'Thai'}]",False
+5,EzyjRrhRpt_NR7wIwqm_Rg,Prik Thai Kitchen,4716 30th Ave,3.5,$,11103,True,True,False,96,"[{'alias': 'thai', 'title': 'Thai'}]",False
+6,O1fUmxt3kbV-rnyjBtzAfw,THEP Thai Restaurant,1439 2nd Ave,4.5,$$,10021,True,True,False,1339,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+7,coQAQmIKG9dBPA6-RHqJag,CHARM'S,200 8th Ave,4.0,$$,10011,True,True,False,130,"[{'alias': 'thai', 'title': 'Thai'}]",False
+8,liZmIO0FqZwslLJfLDkfgw,Wayla,100 Forsyth St,4.5,$$,10002,False,True,False,299,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,Ge9wqsI72Mvk375CPvXurw,Mr. Khao Man Gai,73rd St & Roosevelt Avenue,4.5,,11372,False,False,False,14,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'hainan', 'title': 'Hainan'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",False
+10,VTNMeipIiyRRenXcRBedpg,HK Food Court 香港美食城,8202 45th Ave,4.0,,11373,False,False,False,102,"[{'alias': 'food_court', 'title': 'Food Court'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+11,Il1K0hzGEiJgLLBCZCfA1A,P'Noi Thaithai Grocery,76-13 Woodside Ave,4.0,$,11373,False,False,False,29,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'importedfood', 'title': 'Imported Food'}]",False
+12,L2ZW-MdvRJ3gM2RIq8STbA,Thai72,128 W 72nd St,4.0,$$,10023,True,True,False,264,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+13,CDa0GJZDMPcjvhbx7RbG5Q,Senn Thai Comfort Food,452 Amsterdam Ave,4.0,$$,10024,True,True,False,290,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+14,wGFSTTB6b4MHJJUzBnVJeg,Top Thai Greenwich,235 Sullivan St,4.5,$$,10012,True,True,False,1536,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'halal', 'title': 'Halal'}]",False
+15,eYcEbX3uZayc0jzd-Hjfqg,Moon Thai Kitchen,438 W 238th St,4.5,,10463,True,True,False,26,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'soup', 'title': 'Soup'}]",False
+16,0fjab0vzFgIQ-FKzjFR7JQ,Dannee Thai,433 Dekalb Ave,4.0,$$,11205,True,True,False,155,"[{'alias': 'thai', 'title': 'Thai'}]",False
+17,D9g4zcLw26jMaDrBwzpdCA,Chef Papa Vietnamese Kitchen,42-05 162nd St,4.5,,11358,True,True,False,76,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'soup', 'title': 'Soup'}]",False
+18,MRzv1MW8M66vkHA8npV9lw,Mekong Thai & Vietnamese Restaurant,15632 Northern Blvd,3.0,$,11354,False,True,False,362,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+19,qnD3XDvYIrFh_FppNH90cA,Thais New York,1750 2nd Ave,4.0,$$,10128,True,True,False,150,"[{'alias': 'thai', 'title': 'Thai'}]",False
+20,gBoqjD5MTJuGx65QjAhJGg,Bangkok City,100 Fifth Ave,4.0,$$,10803,True,True,False,156,"[{'alias': 'thai', 'title': 'Thai'}]",False
+21,TUoya6mwmxr0Zpr8oZSXlg,Thip Osha,795 Grand St,4.5,$$,11211,True,True,False,81,"[{'alias': 'thai', 'title': 'Thai'}]",False
+22,4yKYc9ngosSJ7Lk2LJE4ug,Eagle Thai Cuisine,644 Anderson Ave,4.5,,07010,True,True,False,7,"[{'alias': 'thai', 'title': 'Thai'}]",False
+23,Upy5v6_311t1CUV3ru4jQA,Asian Cafe,158-28 Cross Bay Blvd,3.5,,11414,True,True,False,20,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+24,M3ZCg655JBwwuI6xH1Wf_g,The Theo Thai Bistro,621 Hicksville Rd,4.5,,11714,False,False,False,22,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'soup', 'title': 'Soup'}]",False
+25,maRGHspk6zuaNn1pk9qgZw,Exhibit Thai Eatery,10 Davison Plz,4.5,$$,11518,True,True,False,89,"[{'alias': 'thai', 'title': 'Thai'}]",False
+26,nFszVPUX4tj-oarjfBO0nw,Klong,7 St Marks Pl,4.0,$$,10003,True,True,False,1112,"[{'alias': 'thai', 'title': 'Thai'}]",False
+27,S14Ewv4-h0-EtfMeYMbrzg,Eim Dee Thai,279 Bushwick Ave,4.0,,11206,True,True,False,20,"[{'alias': 'thai', 'title': 'Thai'}]",False
+28,QJj-f8cpIs81NtlvS_Dc3w,Cafe at Klom Klorm,371 Himrod St,4.5,,11237,True,True,False,35,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cafes', 'title': 'Cafes'}]",False
+29,2AcDHuatOFXhqJDedZwGiA,Tung Thong Thai Restaurant,561 W 169th St,3.5,$$,10032,True,True,False,297,"[{'alias': 'thai', 'title': 'Thai'}]",False
+30,UkA3V8itzKuBGZ9c7y989w,Jaiya,396 3rd Ave,3.5,$$,10016,True,True,False,825,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+31,l_gQf_4NgPMJcx2OkjsMfg,Noods n’ Chill,170 S 3rd St,4.0,$$,11211,True,True,False,77,"[{'alias': 'thai', 'title': 'Thai'}]",False
+32,KHdYPT0jUnUGdHGaY73mxg,Sukhumvit 51,224 E 51st St,4.0,$$,10022,True,True,False,753,"[{'alias': 'thai', 'title': 'Thai'}]",False
+33,jfnDwWBGK4JoWE5jbeKxSw,Chu-Ros Thai,1590 Lexington Ave,4.5,,10029,True,True,False,90,"[{'alias': 'thai', 'title': 'Thai'}]",False
+34,69_uRnB0amB6FbmASCo0-A,Pho Che,193-16 Northern Blvd,4.0,$$,11358,True,True,False,377,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'korean', 'title': 'Korean'}]",False
+35,S1yH5vdJh2L2UIb7zJ2OHg,Mito,64-18 108th St,4.0,$$,11375,True,True,True,391,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+36,rKeLuHDI3PQZsPSVCEMHtw,Wondee Siam,792 9th Ave,4.0,$$,10019,True,True,False,1028,"[{'alias': 'thai', 'title': 'Thai'}]",False
+37,SBy46BviyBKowPjbTjDsHQ,Lantern,101 Montague St,3.5,$$,11201,True,True,False,467,"[{'alias': 'thai', 'title': 'Thai'}]",False
+38,f_OiLWqldSmNy1MAvtWlPQ,Cyclo,5-51 47th Ave,4.0,$$,11101,True,True,False,518,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+39,T3KK5s1HaPGokXEc5Z8vOg,Zen Fusion Cuisine,79-28 Parsons Blvd,3.5,$$,11366,True,True,False,226,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'japanese', 'title': 'Japanese'}]",False
+40,zJ6-ZCrtJA943nsVl2l8gQ,Thai Cuisine,1509 White Plains Rd,3.0,$$,10462,True,True,False,65,"[{'alias': 'thai', 'title': 'Thai'}]",False
+41,-Rat_jVuOv_HTYjHqooGzw,Malay Restaurant,13517 40th Rd,4.0,$$,11354,False,True,False,315,"[{'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'seafood', 'title': 'Seafood'}]",False
+42,MD-GiizNpmFbuDIdKGzXnA,Mekong,917 Columbus Ave,4.0,,10025,True,True,False,60,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+43,eHSu9NDWPJ3BvQDmPEJpfQ,Casa Asia,149-45 14th Ave,4.0,$$,11357,True,True,False,228,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'thai', 'title': 'Thai'}]",False
+44,URflNuIV5PJZm4LcNACBPQ,Thai Rock,375 Beach 92nd St,3.5,$$,11693,True,True,False,363,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",False
+45,-Q8MYIWoE4EsGQtudIOY0w,Bua Thai Ramen & Robata Grill,1611 2nd Ave,4.5,$$,10028,True,True,True,847,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",False
+46,g7qtHQ_121mYWUdu3VWlrA,Tong,321 Starr St,5.0,,11237,True,True,False,36,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",False
+47,_7Maf5WG682E7R-EHSz18w,Bangklyn East Harlem,2051 2nd Ave,4.5,$$,10029,True,True,False,123,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+48,RrPIJvmje1qb9iaYd6jH0g,Pinto Restaurant,128 Montague St,4.0,$$,11201,True,True,False,220,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'seafood', 'title': 'Seafood'}]",False
+49,2-z6dRAkKupCyz1LF251pQ,Jintana Thai Farmhouse,344 7th Ave,4.5,$$,11215,True,True,True,142,"[{'alias': 'thai', 'title': 'Thai'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,ri2YWZ2jMuxauAUA__4uvw,SITA THAI,3609 Broadway Ave,4.0,,10031,True,True,False,61,"[{'alias': 'thai', 'title': 'Thai'}]",False
+1,oUo_8ST8_fTKTEU6LYC65Q,Ten Zen Asian Cuisine,6703 Austin St,3.5,,11375,True,True,False,53,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+2,0IFDnYf3bhqxJR6hVrG7Gw,Top Thai 55 - Carmine,55 Carmine St,4.5,$$,10014,True,True,True,381,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'halal', 'title': 'Halal'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+3,tx-gxkns4uFyve7Eu5mYKA,Tana Thai,1890 Eastchester Rd,3.0,$$,10461,True,True,False,199,"[{'alias': 'thai', 'title': 'Thai'}]",False
+4,r_auTWBu0-xW_9SQWLEdrg,Nine Thai,110-70 Queens Blvd,2.0,$$,11375,False,True,False,98,"[{'alias': 'thai', 'title': 'Thai'}]",False
+5,dyFvVNDumWZgXtV3GlK8vw,Link Thai,756 Grand St,4.5,$$,11211,True,True,False,60,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+6,ybPMdh4XiTTwLWOMUXdwlw,Thai 101 Bistro,448 Myrtle Ave,3.0,$$,11205,True,True,False,191,"[{'alias': 'thai', 'title': 'Thai'}]",False
+7,6CutdyyNi-wjh5QXMOielw,Atit Thai Restaurant,134 North Ave,4.0,$$,10801,True,True,False,52,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+8,z1OgXX3L9Ipl2mu-Hf4ADw,VIV,717 9th Ave,4.0,$$,10019,True,True,False,897,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+9,gEaZtaUQyGsp-O4AVcJWeg,Mama’s Cupboard,235 E 53rd St,5.0,,10022,True,True,False,11,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",False
+10,iTke4ZsI0WyAHD6fmAtRLA,Coco Malaysian Cuisine,8269 Broadway,3.5,$$,11373,True,True,False,262,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'malaysian', 'title': 'Malaysian'}]",False
+11,EbX_9tqAJs4gW51gZpOB7g,Rasa,25 W 8th St,4.0,$$,10011,True,True,True,734,"[{'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'halal', 'title': 'Halal'}]",False
+12,DEoUnmEnguWiwlDh3CFm1A,Thai Peppercorn,1406 Madison Ave,3.0,$,10029,True,True,False,66,"[{'alias': 'thai', 'title': 'Thai'}]",False
+13,_c0MxccsmIBZcGLJpb4nSA,NaNa Thai Street,31 E 21st St,4.5,$$,10010,True,True,False,118,"[{'alias': 'thai', 'title': 'Thai'}]",False
+14,jg5nc64wLYKwKAvz_lfMuA,Thai At Lex,1244 Lexington Ave,3.5,$$,10028,True,True,False,183,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+15,xRvMOTMzDrMfyAWbYhkA8A,Terra Thai,518 E 6th St,5.0,,10009,True,True,False,29,"[{'alias': 'thai', 'title': 'Thai'}]",False
+16,1sEr-BDi2LD6HH6K960pfQ,ACE Thai Kitchen,330 Myrtle Ave,4.5,$$,11205,True,True,False,102,"[{'alias': 'thai', 'title': 'Thai'}]",False
+17,1ctLdRJjP9m5QdL7ruYAzA,Herbs Thai Bistro,251 E 45th St,3.5,$$,10017,True,True,False,193,"[{'alias': 'thai', 'title': 'Thai'}]",False
+18,ftB-68pWfv2xl3LTDYocNg,Thai Express,37-11 Main St,4.5,,11354,False,False,False,19,"[{'alias': 'thai', 'title': 'Thai'}]",False
+19,lI91u68v2xTdE70lyioKAg,Lotus Thai Cuisine,7007 Park Ave,3.5,$$,07093,True,True,False,262,"[{'alias': 'thai', 'title': 'Thai'}]",False
+20,LIsCe_l7kUlv2cUs6AxNQQ,SUROSS Thai Bistro,4131 Broadway,4.5,$,10033,True,True,False,195,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'soup', 'title': 'Soup'}]",False
+21,dVR5KHPMZoU9rQvxhY5Otw,Thai Terminal,349 E 12th St,4.0,$$,10003,True,True,False,570,"[{'alias': 'thai', 'title': 'Thai'}]",False
+22,ebhDBwRzD--eoiYcO8M18g,Pho Thai Lao Kitchen,219 Maywood Ave,4.0,$$,07607,True,True,False,315,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'laotian', 'title': 'Laotian'}]",False
+23,9b_FvTUgkkUUMyL0nGhFtg,Three Roosters,792 9th Ave,5.0,,10019,True,True,False,33,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",False
+24,ihBRikaKYVdJ7M0gVEGjZg,Maomao,1000 Bdwy,5.0,,11221,True,True,False,2,"[{'alias': 'thai', 'title': 'Thai'}]",False
+25,f_a1oO8-y2qorh_-K8xWHw,Thai Farm Kitchen Seaport,21 Peck Slip,4.5,,10038,True,True,True,67,"[{'alias': 'thai', 'title': 'Thai'}]",False
+26,6wJOojpF2c4lLeBNbTBB0A,Baoburg,614 Manhattan Ave,4.0,$$,11222,True,True,False,237,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'panasian', 'title': 'Pan Asian'}]",False
+27,pcVlzw0Id0MvP8MJYMRgJg,River Thai,1766 Amsterdam Ave,4.5,,10031,True,True,False,69,"[{'alias': 'thai', 'title': 'Thai'}]",False
+28,Ol72W3YUlo0luBHWpY4sYg,Sawasdee Thai Elevated,395 S Oyster Bay Rd,4.0,$$,11803,False,True,False,281,"[{'alias': 'thai', 'title': 'Thai'}]",False
+29,4nwVzRCfWFGe6_Taqee4Cg,MRS. AN Thai,173 E 99th St,4.0,$$,10029,True,True,False,103,"[{'alias': 'thai', 'title': 'Thai'}]",False
+30,kGRgfSFbt6l4Otw6HalQcw,Khamdee Thai Kitchen,4887 Merrick Rd,5.0,,11762,True,True,False,25,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+31,bF38ob3wxacTztdQLRS-Sg,Tung Thong 181,812 W 181st St,4.0,$$,10033,True,True,False,102,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'soup', 'title': 'Soup'}]",False
+32,zYIKxE7eKeglXweoABjSwg,Thai BKK,2021 Lexington Ave,3.5,$$,10035,True,True,False,78,"[{'alias': 'thai', 'title': 'Thai'}]",False
+33,9v4l7pz4J709z0mkqUpQbw,Savory Thai,378 Metropolitan Ave,4.5,$$,11211,True,True,False,65,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+34,3KlWyCJ2BikxwcEb0-O4Ww,Thai Cafe,925 Manhattan Ave,3.5,$$,11222,True,True,False,131,"[{'alias': 'thai', 'title': 'Thai'}]",False
+35,-XYp6w50XbZfS90YddS5ew,Soothr,204 E 13th St,5.0,,10003,True,True,False,108,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+36,2ev7_7be5HVGfYJCEKEOgw,Nagoya,25-73 Francis Lewis Blvd,3.5,$$,11358,True,True,False,64,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'thai', 'title': 'Thai'}]",False
+37,5ZjNZd3Yg0jOkJ9WRx1r6g,Kor Tor Mor,204 Smith St,4.0,$$,11201,True,True,False,260,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",False
+38,U7IbB48W9CiUDb0NA5Jn7Q,Thai House 2,112-07 Jamaica Ave Richmond Hill,5.0,,11418,True,True,False,1,"[{'alias': 'thai', 'title': 'Thai'}]",False
+39,O8i5XlvcfzH1q-wpfURrpg,Ayada Thai - Chelsea Market,75 9th Ave,4.0,,10011,True,True,False,78,"[{'alias': 'thai', 'title': 'Thai'}]",False
+40,Tmc90kL5jelJ2c9CiGzSFA,Hi-So Thai,1903 Willow Ave,4.0,$$,07086,True,True,False,253,"[{'alias': 'thai', 'title': 'Thai'}]",False
+41,qusZ-K5tzM1EyOa1IEWCHA,Nourish,637A Vanderbilt Ave,4.0,$$,11238,True,True,False,261,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'soup', 'title': 'Soup'}]",False
+42,1uuxUq-QrUYX-Zal9TvFFQ,Charm Thai Express,1346 Amsterdam Ave,4.0,,10027,True,True,False,78,"[{'alias': 'thai', 'title': 'Thai'}]",False
+43,_Ge2eC89Z-jlaDDWglfT8g,Pa Pa Thai Cuisine,1069 1st Ave,4.5,$$,10022,True,True,False,223,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'salad', 'title': 'Salad'}]",False
+44,yA29ur97O7B6kYr1g5IoAw,Aroy Dee Thai Kitchen,20 John St,3.5,$$,10038,True,True,False,404,"[{'alias': 'thai', 'title': 'Thai'}]",False
+45,jKDXlyPG-2rmcp9Ej6jPLA,Living Thai,931 Amsterdam Ave,4.0,$$,10025,True,True,False,111,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'soup', 'title': 'Soup'}]",False
+46,PHu2RLIMZix9W4Uc-FS1fg,Eatzy Thai,33-09 Broadway,3.5,,11106,True,True,False,15,"[{'alias': 'thai', 'title': 'Thai'}]",False
+47,AkoNWXRhZWyJInoWI1AaZw,Pad Thai Kitchen,6218 18th Ave,4.5,,11204,True,True,False,42,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,pSSajdYNKTyAGV8-fk7fWQ,Joya,215 Court St,3.5,$$,11201,True,True,False,1321,"[{'alias': 'thai', 'title': 'Thai'}]",False
+49,4mzogOLOVDPBDVTO4cz9fA,Roi Siam,1814 Bergenline Ave,4.5,$$,07087,True,True,False,120,"[{'alias': 'thai', 'title': 'Thai'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,7lhmzhkct9-blnuBAp_HVQ,Five Stars Thai Cuisine,324 29th St,4.0,$$,07087,True,True,False,406,"[{'alias': 'thai', 'title': 'Thai'}]",False
+1,9VyMJICKGbC7Y5Ssq-Xk7w,The Sabieng Thai,71 1st Ave,4.0,$$,10003,True,True,False,102,"[{'alias': 'thai', 'title': 'Thai'}]",False
+2,7xyLHOYIfoY6H5TOYwCuow,Pho Metro,31-16 Farrington St,4.5,$$,11354,False,True,False,362,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+3,JzD9nfJWHwnG-2Wk87muHg,Qi,698 9th Ave,3.5,$$,10036,True,True,False,1221,"[{'alias': 'thai', 'title': 'Thai'}]",False
+4,WJS06XxRdc6DD1s4LWE9HA,Fish Cheeks,55 Bond St,4.5,$$,10012,True,True,False,720,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'raw_food', 'title': 'Live/Raw Food'}]",False
+5,58jCXglRFRn6qwZ_IxYb6A,Maison Bangkok,355 E 78th St,4.0,,10075,True,True,False,106,"[{'alias': 'thai', 'title': 'Thai'}]",False
+6,y_Ei1zBq6pDW6sMyP8ZSyg,Thai-ish,168 Lexington Ave,4.0,$$,10016,True,True,False,234,"[{'alias': 'thai', 'title': 'Thai'}]",False
+7,ubCFsHLAG_xZupEbCny7vA,Beat Mazesoba,161-23 Crocheron Ave,4.5,,11358,True,True,False,148,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",False
+8,od-UsU-zZx29CWLhq-eong,Chongkho Restaurant,562 Grand St,5.0,,11211,True,True,False,28,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,vKOSpBeW-lh7Q6a7To6XKw,Centre Thai Bistro,268B Atlantic Ave,4.0,$$,11518,False,True,False,166,"[{'alias': 'thai', 'title': 'Thai'}]",False
+10,RnQjRZ9MJrBN9SKiIv3i-A,Amarin Cafe,617 Manhattan Ave,4.0,$$,11222,False,True,False,285,"[{'alias': 'thai', 'title': 'Thai'}]",False
+11,w8mt6JTk8lUe7dTV6hASEw,Golden Way,13309 Cross Bay Blvd,3.5,$,11417,True,True,False,58,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+12,0GftSP2dRwEzujkv2VKIgA,Wok Wok Southeast Asian Kitchen,11 Mott St,4.0,$$,10013,True,True,False,995,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'thai', 'title': 'Thai'}]",False
+13,Nvhx093-K2xwHIZVnFstJw,Copper Throat Thai Cuisine,123 Ludlow St,4.0,$$,10002,True,True,False,117,"[{'alias': 'thai', 'title': 'Thai'}]",False
+14,e64Y17DJgjotSz8B9gEI7Q,Ugly Baby,407 Smith St,4.5,$$,11231,False,True,False,352,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}]",False
+15,BKMCAYb9EAivUm3p-vrC9w,Khe-Yo,157 Duane St,4.0,$$,10013,True,True,False,779,"[{'alias': 'laotian', 'title': 'Laotian'}]",False
+16,oxZgDgOW5pPUnXcv28tZ-A,Chok Dee Thai Kitchen,561 Livingston St,4.5,$$,07648,True,True,False,170,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'seafood', 'title': 'Seafood'}]",False
+17,UC3n_0vZ5zI1fvi7UzNZAg,Sabai Thai Restaurant,432 Park Ave S,4.5,$$,10016,True,True,False,292,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'soup', 'title': 'Soup'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+18,BlBBmx4sLmoRW0tORiMDHQ,Hado Sushi & Thai Cuisine,138-40 86th Ave,3.5,$$,11435,True,True,False,363,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+19,v5YA6gFdj1jwTpz0Kjpjqw,Krua,1764 1AVE,4.5,$$,10128,True,True,False,64,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",False
+20,XixegGx6pdU_H0MWWqN1_w,GAI Chicken & Rice,158 E 45th St,4.0,$$,10017,True,True,False,117,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}]",False
+21,brMIenh-sAXr1zq6zpBKLA,Sawasde Thai Cooking,359 McDonald Ave,4.0,$$,11218,True,True,False,160,"[{'alias': 'thai', 'title': 'Thai'}]",False
+22,sDxRkhk9A2nDT2aKENsAww,Cheers Thai Restaurant,568 Metropolitan Ave,3.5,$$,11211,True,True,False,145,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+23,Xst2vGND8hy44VOmbLG3kQ,Pa De Thai Restaurant,264 Old River Rd,3.5,$$,07020,True,True,False,265,"[{'alias': 'thai', 'title': 'Thai'}]",False
+24,rhWaFGReGsmyWAojvGWQlQ,PaPa Thai Cuisine,2115 Frederick Douglass Blvd,3.5,,10026,True,True,False,73,"[{'alias': 'thai', 'title': 'Thai'}]",False
+25,ce_1B5fkrAxsVBHMcQeK6g,Cathailina,47-01 111th St,5.0,,11368,False,False,False,2,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",False
+26,Fz4iWaJbIDpyOANqYNyqxQ,RaKang,895 W Beech St,4.0,$$,11561,True,True,False,88,"[{'alias': 'thai', 'title': 'Thai'}]",False
+27,XD9XiCUvbvCt7laocvAadw,Hana Asian Bistro,150-03 Crossbay Blvd,4.0,$$,11417,True,True,False,211,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+28,XNkC1vJmLOI8NRR3Jl_vyQ,Amy Thai Bistro,545 Flatbush Ave,4.5,$$,11225,False,True,False,143,"[{'alias': 'thai', 'title': 'Thai'}]",False
+29,YvhVIOCXT8X71nkAy388Lg,Lily Thai,615 Grand St,3.5,$$,11211,True,True,False,216,"[{'alias': 'thai', 'title': 'Thai'}]",False
+30,n7LORZ0fGxPhOfdlHYREKQ,Peak Thai Restaurant,301 E 49th St,3.5,$$,10017,True,True,False,201,"[{'alias': 'thai', 'title': 'Thai'}]",False
+31,4ak7lLxs6jopSjkMWJ8yKQ,Kinkhao Thai,2200 Amsterdam Ave,3.5,,10032,True,True,False,36,"[{'alias': 'thai', 'title': 'Thai'}]",False
+32,StFf9fVnAlhwrUWan0C4Ww,Wanisa Home Kitchen,142 Smith St,4.5,$$,11201,True,True,False,145,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+33,qfZFjUnekCQRvZaZJkOPog,Aiyara Thai,480 9th Ave,4.0,$$,10018,True,True,False,61,"[{'alias': 'thai', 'title': 'Thai'}]",False
+34,HnTcWZbZJzNAYO8YseQlSQ,PuTawn Local Thai Kitchen,1584 First Av,4.5,$$,10028,True,True,False,219,"[{'alias': 'thai', 'title': 'Thai'}]",False
+35,ZQHZAvw1jvNznbo1wFb_4w,Bay Thai,6735 3rd Ave,4.0,$$,11220,True,True,False,144,"[{'alias': 'thai', 'title': 'Thai'}]",False
+36,T4xmuPYBmMhF48bfi9rkfA,Pro Thai,1575 Lexington Ave,3.5,$$,10029,True,True,False,200,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",False
+37,3pFKz52MVF7dmIrKlUNBjw,Little House Cafe,90-19 Corona Ave,4.0,$,11373,False,True,False,60,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'thai', 'title': 'Thai'}]",False
+38,I4FWrwXDC91lsfQLXYSeXA,Malii,2028 2nd Ave,4.5,$$,10029,True,True,False,283,"[{'alias': 'thai', 'title': 'Thai'}]",False
+39,jOGL9SOeMH2F6HO5qxbDHw,Boon Thai,681 Manhattan Ave,3.0,$$,11222,True,True,False,77,"[{'alias': 'thai', 'title': 'Thai'}]",False
+40,ZlUU_DPlJTBLyUpBL2niKw,Luscious Thai,1099 1st Ave,3.5,$$,10065,True,True,False,232,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+41,W9t_RWcisBoXMS0iAl7frQ,Thai Shack,445 Cedar Ln,4.5,,07666,True,False,False,31,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'salad', 'title': 'Salad'}]",False
+42,83BXSwE0166sObnXLUE4bQ,Land,450 Amsterdam Ave,4.0,$$,10024,True,True,False,1060,"[{'alias': 'thai', 'title': 'Thai'}]",False
+43,jek5zmjxt4U-HMGy2NfCxg,Cha Ba Thai,12 W Park Ave,4.0,$$,11561,True,True,False,151,"[{'alias': 'thai', 'title': 'Thai'}]",False
+44,RdGWCbcxA79G1ZMPVL3SGQ,Nora Thai,176 N 9th St,4.0,$$,11211,True,True,False,82,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+45,iShoqEAgFLyxelfyTLkn1g,Basil Leaf Grill,1019 Atlantic Ave,4.5,,11510,False,True,False,48,"[{'alias': 'thai', 'title': 'Thai'}]",False
+46,iPaule2uCieebZk0rVFG1w,Lum Dee Thai Cuisine,218 Columbia St,4.5,,11231,True,True,False,24,"[{'alias': 'thai', 'title': 'Thai'}]",False
+47,rzN8S3ZcjY4SKqlG4HZTkg,Green Thai Kitchen,4141 Merrick Rd,4.5,$$,11758,True,True,False,103,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,IdHZfmpp8MmQ4_KZL2qXbg,MAKIINNY,32 E7th St,4.5,,10003,True,True,False,60,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",False
+49,9UkHgv9R3LakP0vNj6DMIg,Charm Kao,193 Schermerhorn St,4.0,$$,11201,True,True,False,57,"[{'alias': 'thai', 'title': 'Thai'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,5DwGICd6TkAnvO6YNeYp0Q,Red Basil,4 Glen Rd,3.5,$$,07070,True,True,False,230,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+1,RmQOUUkwHDhuuh9Y6XzLsQ,Hungry?,77 Norman Ave,4.0,$$,11222,True,True,False,120,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",False
+2,wA8aU__6Rgtcv5Z0IdC0sQ,Frankly Thai,959 Hempstead Tpke,4.0,$$,11010,False,True,False,407,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'soup', 'title': 'Soup'}]",False
+3,qd9_gxrmskbOT6OLN9sShA,Dock Asian Eatery,22 Wyckoff Ave,4.0,$$,11237,True,True,False,149,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",False
+4,Tgz0bhjz-api1CGS_ANFoQ,SkyIce 9th St.,437 5th Ave,4.5,$$,11215,True,True,False,34,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'desserts', 'title': 'Desserts'}]",False
+5,er4E7VCjDo0xE_IPu5o6Ig,Pongsri Thai Restaurant,244 W 48th St,3.5,$$,10036,True,True,False,518,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}]",False
+6,M1cXcwpN_QZZT27rqA2MWw,Sarin Thai,43 Glen Cove Rd,4.0,$$,11548,False,True,False,173,"[{'alias': 'thai', 'title': 'Thai'}]",False
+7,6i14XPO7y3aGAvgdxRjVEg,Taan Thai,48 W Church St,4.0,$$,07621,True,True,False,96,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'soup', 'title': 'Soup'}]",False
+8,nxUs6svpNSL0wAwAA2F34w,Clifton Thai Restaurant,239 Parker Ave,4.0,$$,07011,True,True,False,428,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,9IT7UsL-SGEz6ncR4oeJ9g,Tam Sang Thai Kitchen,331 Lexington Ave,3.5,$$,10016,True,True,False,110,"[{'alias': 'thai', 'title': 'Thai'}]",False
+10,McU7XI3HoWFELTDaGc1SEw,Ginger and Lemongrass,153 Rivington St,4.0,$$,10002,True,True,False,397,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+11,QYr9EO-2FmdpOVUjOyNjgg,Raenu Continental Thai Restaurant,844 Amsterdam Ave,4.0,$$,10025,True,True,False,107,"[{'alias': 'thai', 'title': 'Thai'}]",False
+12,5-cv4xv4IBao7N1LSH6tHA,Der Krung Thai Cuisine,860 9th Ave,4.0,$$,10019,True,True,False,233,"[{'alias': 'thai', 'title': 'Thai'}]",False
+13,0A2lgMwqKCsr95qZtd4mKA,Chat Kaew Thai Cuisine,4 E Palisade Ave,4.0,$$,07631,False,True,False,103,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+14,iUEvASoukxI6vrCYWYyK8g,Kati Shop,162 E 55th St,4.5,$$,10022,True,True,False,167,"[{'alias': 'thai', 'title': 'Thai'}]",False
+15,TMmiudSEF1PIXb8usY5c0Q,Valla Table,641 10th Ave,5.0,,10036,True,True,False,36,"[{'alias': 'thai', 'title': 'Thai'}]",False
+16,VMDmMIWR059HKMp_Mj3Msw,Thai Tree,36-17 Greenpoint Ave,3.0,$$,11101,True,True,False,26,"[{'alias': 'thai', 'title': 'Thai'}]",False
+17,oO_X1H5Lxo8sNykx6azLVQ,Thai Super,166 E 118th St,3.5,$$,10035,True,True,False,172,"[{'alias': 'thai', 'title': 'Thai'}]",False
+18,56BXqZZ09-p1Lfw3ZDjV4A,Opai Thai,722 Amsterdam Ave,3.5,$$,10025,True,True,False,356,"[{'alias': 'thai', 'title': 'Thai'}]",False
+19,S7ivv5O0beH3U9cV3cRD_Q,Jujube Tree,35-02 30th Ave,4.5,$$,11103,True,True,False,382,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+20,Zx44jCgDv1TwKMGzcXajIQ,Taste Good Malaysian Cuisine,82-18 45th Ave,4.0,$$,11373,False,True,False,709,"[{'alias': 'malaysian', 'title': 'Malaysian'}]",False
+21,v3qL3KqFJYuS_3rCsgpuXQ,Rain II,1095 St Nicholas Ave,3.5,$$,10032,True,True,False,175,"[{'alias': 'thai', 'title': 'Thai'}]",False
+22,HLDKZXsi7TQ0P3rS2wd-UQ,SEAK,725 River Rd,4.0,$$,07020,False,True,False,464,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+23,jn8qDhchEyi6doa_PSk8dg,Sopah Thai Kitchen,11 Cedar Swamp Rd,4.0,$$,11542,False,True,False,163,"[{'alias': 'thai', 'title': 'Thai'}]",False
+24,IYRJ5E7fnK2UC0B5mOgzSQ,Sweet Basil,709 Franklin Ave,3.0,$$,11238,True,True,False,230,"[{'alias': 'thai', 'title': 'Thai'}]",False
+25,_zRVdCfUcx1cwseFycSQdQ,Thai Farm Kitchen,416 Church Ave,4.5,$$,11218,True,True,False,238,"[{'alias': 'thai', 'title': 'Thai'}]",False
+26,GrxbGiLMkl1jd665k1lbIQ,LULU Chinese,78-06 101st Ave,3.5,$$,11416,True,True,False,89,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'panasian', 'title': 'Pan Asian'}]",False
+27,33ry5dmopDOElU7zf1Sn2w,Lan Larb,227 Centre St,3.5,$$,10013,True,True,False,211,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+28,DguAGioaK6ZIAt_6kk93tA,Thai Select,472 9th Ave,3.5,$$,10018,True,True,False,601,"[{'alias': 'thai', 'title': 'Thai'}]",False
+29,vA2VEhW6S1ioX6tXtQdO9A,Lemongrass Grill,156 Court St,3.5,$$,11201,True,True,False,475,"[{'alias': 'thai', 'title': 'Thai'}]",False
+30,e1jwvzY8hU642HSBZZATcw,Hub Thai,105 Avenue A,4.0,$$,10009,True,True,False,121,"[{'alias': 'thai', 'title': 'Thai'}]",False
+31,RBjVu2fFv9NPkV8XD9R9yw,BKK Eatery,138 E 34th St,4.5,$$,10016,True,True,True,93,"[{'alias': 'thai', 'title': 'Thai'}]",False
+32,No1PU4NbOdoaG1lSikfeNg,7 Elephants,221 East Broadway,4.0,,10002,True,True,False,11,"[{'alias': 'thai', 'title': 'Thai'}]",False
+33,cugwo9ncnGnH_Chu-P-iAw,Am Thai Bistro,1003 Church Ave,4.0,$$,11218,True,True,False,546,"[{'alias': 'thai', 'title': 'Thai'}]",False
+34,JlFbaMbMzsu7FA307mUIqg,JoJu,83-25 Broadway,4.5,$,11373,True,True,False,1715,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+35,sljnE3uoRUmM7aW5f1I3Ug,One More Thai,6 Clinton St,3.5,$$,10002,True,True,False,257,"[{'alias': 'thai', 'title': 'Thai'}]",False
+36,l3aVYfTWVINXaNGxlMz0bQ,Soho Thai,141 Grand St,3.5,$$,10013,True,True,False,165,"[{'alias': 'thai', 'title': 'Thai'}]",False
+37,ZGKdgFAGOL6NOPXPrBkhzA,Myrtle Thai,438 Myrtle Ave,3.5,$$,11205,True,True,False,175,"[{'alias': 'thai', 'title': 'Thai'}]",False
+38,AAXX-WkDd1CW3_GgIVivvw,Chang Noi Thai,100 Stuyvesant Pl,4.5,$$,10301,True,True,False,174,"[{'alias': 'thai', 'title': 'Thai'}]",False
+39,SoEQRDUNYDZPVSSIhTOG6A,Muse,689 Washington Ave,4.0,$$,11238,True,True,False,96,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+40,l7PqadYMShWjGgn5gz0f1g,Port Thai Place,24B Main St,4.0,$$,11050,False,False,False,94,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]",False
+41,ACuZg-9J4bE6hRgu8p501g,Thai Street Food,89 Broadway,4.5,,10006,True,True,False,32,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",False
+42,_ucIHYqW0ZwAdzaEIYnnsA,One Two Thai,153 E 33 St 10016,4.5,$$,10016,True,True,False,81,"[{'alias': 'thai', 'title': 'Thai'}]",False
+43,kI7XN2V8zi4aMypgitFg4w,Prim Thai restaurant,78 E 1st St,5.0,,10009,True,True,False,8,"[{'alias': 'thai', 'title': 'Thai'}]",False
+44,BF6pY829iPBERt15CG1g3w,At Nine Restaurant & Bar,592 9th Ave,4.0,$$,10036,True,True,False,499,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}]",False
+45,B0e6kXT0doU-n6EvMVGzQQ,Thai Me,918 Broadway,3.5,$$,11206,True,True,False,127,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+46,Bh0Rxd4Yi21luny0S95GaQ,Ceetay,129 Alexander Ave,4.0,$$,10454,True,True,False,332,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'thai', 'title': 'Thai'}]",False
+47,W03i9B7wZn2B5p9E_Yn5nw,T Thai,102 Hudson St,3.5,$$,07030,True,True,False,292,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,A_GbgtUSyGWpihHZOqMdwQ,Little Basil,153 E 26th St,4.0,$$,10010,True,True,False,509,"[{'alias': 'thai', 'title': 'Thai'}]",False
+49,d8lAkqk2w3Lp9uiI4svu6w,Thai Chella,712 9th Ave,4.5,$$,10019,True,True,False,74,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,Y4eqn5D2Emukncw1A3K8Wg,Areena Thai Cuisine,312 Hackensack St,4.5,,07072,True,True,False,7,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'salad', 'title': 'Salad'}]",False
+1,Kyx9QFPJUzlC7dmM8SE1bw,Jaiya,1553 2nd Ave,3.5,$$,10075,True,True,False,323,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'bars', 'title': 'Bars'}]",False
+2,oS1e-zZ_qzZNIUEp3FYHhQ,Yummy Thai,4959 Broadway,3.0,$$,10034,True,True,False,386,"[{'alias': 'thai', 'title': 'Thai'}]",False
+3,YjkEjOJ05z4MVDmbrWvWdQ,District Saigon,37-15 Broadway,4.5,$$,11103,True,True,False,615,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+4,oyxk3hv9F7dGZGARmNDSYg,Zoob Zib,460 9th Ave,3.5,$$,10018,True,True,False,317,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+5,ksqoC4U6u6HHyuWscFCzuQ,Thai Kitchen By The Sea,67-20 Rockaway Beach Blvd,3.0,$$,11692,True,True,False,117,"[{'alias': 'thai', 'title': 'Thai'}]",False
+6,OWv-LobTHp8MWWZBT2mtIg,Lamoon's Thai Restaurant,64 Market St,4.5,$$,07012,True,False,False,120,"[{'alias': 'thai', 'title': 'Thai'}]",False
+7,rvI-gvqsWy_HmunwUsjmGg,Bangkok BAR,238 36th St,4.5,,11232,True,True,False,26,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'bars', 'title': 'Bars'}]",False
+8,pREotiEdCIV1GKSp_pLgNA,Somtum Der Redhook,380 Van Brunt St,4.0,,11231,True,True,False,36,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,NQh7s-ceQ88cznujuZAN1w,Wyckoff Thai,314 Franklin Ave,4.5,$$,07481,True,True,False,201,"[{'alias': 'thai', 'title': 'Thai'}]",False
+10,f4ZveYR7fuBp_9klL8OgYQ,Little Thai Kitchen,231 E 53rd St,3.5,$$,10022,True,True,False,364,"[{'alias': 'thai', 'title': 'Thai'}]",False
+11,IiYRxMJLfLCsgifzRNvrtA,Thai Sliders & Co,150 8th Ave,4.0,$$,10011,True,True,False,101,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'panasian', 'title': 'Pan Asian'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+12,wQxJkDpO3kOSBRSsRi3CaA,Jade Eatery and Lounge,1 Station Sq,3.5,$$,11375,True,True,False,631,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",False
+13,OuHB-EdeXmQ26QDzAsDxyw,Thai on Clinton,168 Montague St,4.5,$,11201,False,False,False,23,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",False
+14,jc_XQPbSCwMHsXLfinXA6A,Prince & I,80 Wayne St,4.5,$$,07302,True,True,False,449,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+15,TuGFxspYWd0smugwUeN9sA,A Gusto Thai Bistro,1450 Fulton St,3.5,$$,11216,True,True,False,138,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'thai', 'title': 'Thai'}]",False
+16,p2sAfaFyfFj9nYPyqcmQdw,Thai Sidewalk,Adams St And Front St,4.5,,11201,False,False,False,40,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'thai', 'title': 'Thai'}]",False
+17,ibIZX1wZ6zYUkkrHsVdNuQ,Thai Table,88 N Village Ave,3.5,$$,11570,True,True,False,161,"[{'alias': 'thai', 'title': 'Thai'}]",False
+18,hIEkc-C8w8F3fadqY0R1oA,Sla Thai Restaurant,596 Valley Rd,4.5,$$,07043,False,True,False,295,"[{'alias': 'thai', 'title': 'Thai'}]",False
+19,fJW2CdsqXrKRtaHqoZoeHg,Jad Jaan Thai Vietnamese,83 Audubon Ave,4.0,,10032,True,True,False,28,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+20,9FjGW7u1iTyFUDpJt-Ql9Q,Tue Thai Restaurant,3 Greenwich Ave,3.5,$$,10014,True,True,False,357,"[{'alias': 'thai', 'title': 'Thai'}]",False
+21,nxTEuWKzkK1tCF4LrhFSUQ,Pig and Khao,68 Clinton St,4.0,$$,10002,True,True,False,1656,"[{'alias': 'filipino', 'title': 'Filipino'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+22,0nvJPFqv5VD-Bf2WtzD0rA,One More Charm,236 7th Ave,4.5,,11215,True,True,False,48,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}]",False
+23,fgGRIM0b9JGIoNOAnHzROQ,Yuqi's Cuisine,813 9th Ave,4.0,$$,10019,True,True,False,87,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+24,tjILxkIZKcppgew6NwIngQ,Jai Dee Restaurant,420 7th Ave,3.5,$$,11215,True,True,False,114,"[{'alias': 'thai', 'title': 'Thai'}]",False
+25,p2zm0HnXZkI2yCAuYLb45g,Thai Market,960 Amsterdam Ave,4.0,$$,10025,True,True,False,1014,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",False
+26,ZfuZ2byArGq-5j8zX8Afeg,Zest Sushi,249 Broome St,4.0,$$,10002,True,True,False,852,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+27,GQRNgvRLY6OhPs8BYTTYUw,A plus Thai Place,1007 2nd Ave,3.5,$$,10022,True,True,False,201,"[{'alias': 'thai', 'title': 'Thai'}]",False
+28,bMhqh_k_QZJMnVstIJzxRw,Thái Son,40-10 74th St,3.5,$,11373,False,True,False,483,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+29,414qtc1lNAI-HaJ-Gw9puA,Galanga,149 W 4th St,3.5,$$,10012,True,True,False,503,"[{'alias': 'thai', 'title': 'Thai'}]",False
+30,aZrTVBKQzlcFo_KwzhIw-A,Stang Thai,3019 Fort Hamilton Pkwy,4.5,,11218,True,True,False,41,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+31,PJg78K8hDpv0Nd4chZOiNA,Rangsit 11,11 W Marie St,4.5,$$,11801,False,True,False,87,"[{'alias': 'thai', 'title': 'Thai'}]",False
+32,qn9dgCRGNjHKDGilBamkiw,Noodlefan,1809 Victory Blvd,4.0,$$,10314,True,True,False,147,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+33,yQiII2hHgV5aEMtIA2VG0Q,Chai Thai Kitchen,930 8th Ave,3.5,$$,10019,True,True,False,579,"[{'alias': 'thai', 'title': 'Thai'}]",False
+34,RNrL9Z4m4ouGpOpPXpneRw,Red Lotus Thai Restaurant,227 Main St,3.5,$$,10801,True,True,False,62,"[{'alias': 'thai', 'title': 'Thai'}]",False
+35,IGjdEM0s4WfOYrMSzO6q9Q,KROK Brooklyn,117 Columbia St,4.5,$$,11231,True,True,False,73,"[{'alias': 'thai', 'title': 'Thai'}]",False
+36,7CdpBlw4NLaOLzfFL9IEUg,Uncle Boons Sister,203 Mott St,3.5,$$,10012,False,True,False,156,"[{'alias': 'thai', 'title': 'Thai'}]",False
+37,PiOv4vMRLaJJoqt_Eyebvw,Udom Thai Restaurant,661 Washington Ave,3.0,$$,11238,True,True,False,334,"[{'alias': 'thai', 'title': 'Thai'}]",False
+38,oWBDdSamOzxMJzsD_-seXg,Noodies,830 9th Ave,4.0,$$,10019,True,True,False,505,"[{'alias': 'thai', 'title': 'Thai'}]",False
+39,43r4ynjeIZeQI1w7SWARuQ,Topaz Noodle Bar,129 W 56th St,4.0,$$,10019,True,True,False,674,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+40,CFIOL_GmkAuJyz3fKc7WYg,Sky Thai,62 Morris St,3.0,$$,07302,True,True,False,404,"[{'alias': 'thai', 'title': 'Thai'}]",False
+41,63e2dDq5WCbpaBlercQllg,Thai Essence,231 Franklin Ave,4.0,$$,07110,True,True,False,212,"[{'alias': 'thai', 'title': 'Thai'}]",False
+42,GSOwJ5Gr8X4eGbkIjCzMWA,Thaism,278 Smith St,3.5,$$,11231,True,True,False,159,"[{'alias': 'thai', 'title': 'Thai'}]",False
+43,9Wzn5eRNDZxAqbprKF31Pw,Green Recipes,147-16 45th Ave,5.0,,11355,True,True,False,80,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",False
+44,cvJ39wrAYnquWuMhfFAS2w,Mondayoff by Plant Love House,752 Coney Island Ave,4.5,$$,11218,True,True,False,215,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",False
+45,EvLkJaWEXTZ8QNBrxOhDsA,Bunker,99 Scott Ave,4.0,$$,11237,True,True,False,732,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+46,DDrLKyZodnd9KbOWq4F5nw,Thai Palace,218 Main St,3.5,$$,07660,True,True,False,162,"[{'alias': 'thai', 'title': 'Thai'}]",False
+47,6ZZUTGtH25tLN1SiM029ig,Yum Yum Too,662 9th Ave,3.5,$$,10036,True,True,False,470,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,nIS0a4W7CNDU57cVwUvi9A,The Rooster,1575 Lexington Ave,4.5,,10029,True,True,False,2,"[{'alias': 'thai', 'title': 'Thai'}]",False
+49,kA_Cw1YEGskuPuRYzLmgdQ,Aura Thai Kitchen,210 Main St,3.0,$$,07024,True,True,False,143,"[{'alias': 'thai', 'title': 'Thai'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,R7mKCkD9ZZfeec92GW7esQ,Bangkok 2 Thai,349 1st Ave,4.0,$$,10010,True,True,False,199,"[{'alias': 'thai', 'title': 'Thai'}]",False
+1,IYwz7ck1OZCoZqW0F31pLg,MISC,758 Franklin Ave,4.0,$$,11238,True,True,False,152,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+2,7ztNVUAfAyJXQLGU9BkPiw,Topaz Thai Restaurant,137 Washington Ave,4.0,$$,07109,False,True,False,466,"[{'alias': 'thai', 'title': 'Thai'}]",False
+3,0jksmaH2Fiy3VTricU7g9A,Golden Kitchen,7909 Jamaica Ave,3.5,$,11421,True,True,False,9,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+4,e89DZrGZdqmxIRpgjlgp9g,Thanaree Thai Kitchen,1902 Newbridge Rd,4.5,,11710,True,True,False,36,"[{'alias': 'thai', 'title': 'Thai'}]",False
+5,lGLeaVcg7U4tOfJFhVqGng,Sky Cafe,8620 Whitney Ave,4.5,$,11373,True,True,False,103,"[{'alias': 'indonesian', 'title': 'Indonesian'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",False
+6,mryQh1XwaNC-VMTIjTbYoQ,Ammata Thai Kitchen,184 Rivervale Rd,4.5,$$,07675,False,True,False,146,"[{'alias': 'thai', 'title': 'Thai'}]",False
+7,M8eB6p4udxJhLkeIoDjBzA,Pulau Pinang,82-84 Broadway,3.5,$$,11373,True,True,False,167,"[{'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'taiwanese', 'title': 'Taiwanese'}]",False
+8,1Fe4lCiMPNVhoEyjg92frA,Kati Thai Cuisine,347 E 14th St,4.0,$$,10003,True,True,False,249,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,mzS1uMzO6hF1wlIoTg8d1g,Yada Noodle House,49 W Church St,5.0,$$,07621,False,True,False,37,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+10,mFWOB5TqSF2MSKuACnt3kw,H&I Express Thai,459 Bushwick Ave,4.5,,11206,True,True,False,19,"[{'alias': 'thai', 'title': 'Thai'}]",False
+11,3nATnhLyWRvbUGRwK2zdXQ,Zen Yai Viet Cajun & Pho,208 Grand St,4.5,$$,11211,True,True,False,92,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+12,I_YPy_YRtZFyWOSWs-gv4A,Luckyim Thai,,4.0,$,10005,False,False,False,164,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'catering', 'title': 'Caterers'}]",False
+13,i6H4hcjBSarJRVaieOZ2fw,Come On Thai Cuisine,7803 3th Ave,4.0,,11209,True,True,False,37,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'salad', 'title': 'Salad'}]",False
+14,AILf_L7I9vJ2pyHmSo9v8Q,OBAO,222 E 53rd St,3.5,$$,10022,True,True,True,947,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}]",False
+15,io73CG07m5_w9TP3_rl8DQ,Thai Basil,3682 Nostrand Ave,3.0,$$,11229,True,True,False,137,"[{'alias': 'thai', 'title': 'Thai'}]",False
+16,YtU1rb_oDHTbYzl-NFglPQ,Burmese Bites,5 Ct Sq W,4.5,$,11101,False,False,False,57,"[{'alias': 'burmese', 'title': 'Burmese'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",False
+17,WOrCzAOgs50Wf-dlnHrzDw,Mee Thai,180 5th Ave,4.0,$$,11217,True,True,False,175,"[{'alias': 'thai', 'title': 'Thai'}]",False
+18,siAb_uf13RIYW52O-auTpQ,Born Thai,293 Flatbush Ave,3.5,$$,11217,True,True,False,353,"[{'alias': 'thai', 'title': 'Thai'}]",False
+19,fcCF0Kh_RCbv6KSVlb-Seg,Sticky Rice,85 Orchard St,4.0,$$,10002,True,True,False,377,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+20,Ri0hq80RV6yrPDHmW4Gu3g,Spice Thai,394 Bedford Ave,3.5,,11249,True,True,False,23,"[{'alias': 'thai', 'title': 'Thai'}]",False
+21,E7GJXN50VhreutDji_H_Dg,Pimaan Thai Restaurant,79 Kinderkamack Rd,4.0,$$,07630,False,False,False,261,"[{'alias': 'thai', 'title': 'Thai'}]",False
+22,ColGPMmJOa6YD44fjS6wfg,Sri Thai Thai Restaurant,234 Bloomfield St,3.5,$$,07030,True,True,False,230,"[{'alias': 'thai', 'title': 'Thai'}]",False
+23,sinDhwX8Egru_3FCI7bhkw,Laut,15 E 17th St,3.5,$$,10003,True,True,False,1233,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'singaporean', 'title': 'Singaporean'}]",False
+24,fZuIszXbPoyzYMDSYd3oOA,Ghang Thai Kitchen,229 Court St,3.5,$$,11201,True,True,False,194,"[{'alias': 'thai', 'title': 'Thai'}]",False
+25,qNe3r33f17z1v10iEiB4DA,Tom Yum Koong Thai Kitchen,305 Boulevard,4.5,$$,07604,True,False,False,155,"[{'alias': 'thai', 'title': 'Thai'}]",False
+26,iIcUpEOjMLuzAIfyY_vgYA,PappaRich Flushing,One Fulton Sq,3.5,$$,11354,True,False,False,646,"[{'alias': 'malaysian', 'title': 'Malaysian'}]",False
+27,n61FbfvTddHBXF5WKWjF4g,Pad Thai Noodle Lounge,114 8th Ave,3.5,$$,10011,True,True,False,321,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+28,f1Q1n_dLzCvqU-dq0EBNsQ,Asian Gourmet,57-11 Main St,3.5,$$,11355,False,False,False,114,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'thai', 'title': 'Thai'}]",False
+29,T8WfkzuVi96qCpj1tWjlxw,Spice,39 E 13th St,3.5,$$,10003,True,True,False,1548,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+30,BFe80peJUjkBYMliFoPu9Q,Kare Thai,752 10th Ave,3.5,$$,10019,True,True,False,140,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+31,RVv-A4ePzWoRoV4YToVATQ,Siam Square,564 Kappock St,3.5,$$,10463,True,True,False,121,"[{'alias': 'thai', 'title': 'Thai'}]",False
+32,2CMgTjJoC3II30mxRy-G8A,Mira Sushi - Queens,153-11 Union Tpke,3.5,$$,11367,True,True,False,211,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+33,IpbE1e53iuWXjOuik7fDJw,Chada Thai Bistro,96 W Old Country Rd,4.0,$$,11801,True,True,False,154,"[{'alias': 'thai', 'title': 'Thai'}]",False
+34,X3T2rK-GrEgVUai-MeXAzg,Thongyib Thai Cart,405 Park Ave,4.5,$,10022,False,False,False,20,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",False
+35,B9UfgHgm5-hOErK8-54EsA,Very Thai,186 Ave B,4.0,$$,10009,True,True,False,99,"[{'alias': 'thai', 'title': 'Thai'}]",False
+36,tM5ooPeeKmjjbtzesvsvtw,Savage Sicko,37-10 31st Ave,4.0,,11103,True,True,False,53,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'latin', 'title': 'Latin American'}]",False
+37,fe9aDWC5giHgcuKjqSr_gQ,Ruammit Thai,742 Nostrand Ave,4.0,$$,11216,True,True,False,93,"[{'alias': 'thai', 'title': 'Thai'}]",False
+38,h4wpGRaMue8FSbcMcz1qPg,DD Thai Cuisine,184 W Passaic St,4.0,$$,07662,True,True,False,210,"[{'alias': 'thai', 'title': 'Thai'}]",False
+39,YS8pw7sYOBqaW23FCOqecg,Glur Thai,144 W 19th St,4.5,$$,10011,True,True,False,127,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+40,97j_C4P6VqRIHz21usaFig,Beds Thai,1185 Bedford Ave,3.5,,11216,True,True,False,18,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+41,QCpJlezYJnkZYNat-XYXYw,Topaz Thai Authentic,127 W 56th St,3.5,$$,10019,True,True,False,821,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",False
+42,Wq9cARVEwOmoqfg41mNRNg,Noree Thai Bazaar,274 Grand St,4.0,$$,10002,True,True,False,178,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",False
+43,bpeeh-kkay0ZE7mGXsCVKQ,Ahana,1154 1st Ave,4.0,$$,10065,True,True,False,150,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+44,S2b4gAh3Sr1sbNGaTna1Xw,Bangkok Garden Thai Restaurant,261 Main St,4.0,$$,07601,False,True,False,385,"[{'alias': 'thai', 'title': 'Thai'}]",False
+45,uadFa6KwWxAPdpN-7FDuSQ,Little Thai Kitchen,21 St Roch Ave,4.0,$$,06830,True,True,False,166,"[{'alias': 'thai', 'title': 'Thai'}]",False
+46,pvxX-nvg3o-eZDlvrtYhQQ,Spice Thai,1479 1st Ave,4.0,,10075,True,True,False,8,"[{'alias': 'thai', 'title': 'Thai'}]",False
+47,xvqG8x-EMcUysuOzY7RsPg,Glow Thai,7107 3rd Ave,3.5,$$,11209,True,True,False,263,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+48,mbj9MMuTsOMxKPyjQ3F0Mw,Thai Corner,271 Valley Blvd,4.5,$$,07075,False,True,False,29,"[{'alias': 'thai', 'title': 'Thai'}]",False
+49,AQqUiXi0hn1xu5qVfM54IQ,Beijing Dumpling House,88-38 Sutphin Blvd,4.5,$,11435,True,True,False,299,"[{'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,sq8-XSK18dgazbDnArQgJA,Imocha,970 McBride Ave,4.5,$$,07424,False,True,False,260,"[{'alias': 'thai', 'title': 'Thai'}]",False
+1,6HfkOUronrx92x1dMmwFbA,Summer,85-36 Grand Ave,4.0,$,11373,True,True,False,121,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'bubbletea', 'title': 'Bubble Tea'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+2,Gvg0ZLMsyZkLWHhT6uJs7w,Green Leaf,72-60 Metropolitan Ave,3.5,$,11379,False,True,False,41,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'szechuan', 'title': 'Szechuan'}]",False
+3,-5npn9NRmOun7VUVLZpjyw,Eat Gai,88 Essex St,4.0,$,10002,True,True,False,68,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'chickenshop', 'title': 'Chicken Shop'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",False
+4,7rxA2Ne0ON6iHFBJ6TJDIg,Luck Thai,386 5th Ave,3.5,$$,11215,True,True,False,163,"[{'alias': 'thai', 'title': 'Thai'}]",False
+5,0VGn3bLaUG7lhM5WwkMTCA,Bangkok City Thai Restaurant,335 Washington St,3.0,$$,07030,True,True,False,169,"[{'alias': 'thai', 'title': 'Thai'}]",False
+6,wbDtb47idIoDkzOMX8uEkA,Thaimee Love,615 Hudson St,3.5,,10014,True,True,False,10,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'soup', 'title': 'Soup'}]",False
+7,CODADSsXEq7PsdV7BncjFw,Uni Thai Bistro,265 E 7th St,4.5,,11218,True,True,False,20,"[{'alias': 'thai', 'title': 'Thai'}]",False
+8,UFMXc5B0i_IetI-f8Dpb5A,Coco Thai,268 Prospect Park W,3.5,$$,11215,True,True,False,75,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,4MDltWx_2dxzTEv6mTRfSQ,Rangoon,500 Prospect Pl,4.0,,11238,True,True,False,41,"[{'alias': 'burmese', 'title': 'Burmese'}]",False
+10,fTpla27BQIfN5UWK6vjlQQ,High Thai Restaurant,4017 Ave U,3.0,,11234,True,True,False,10,"[{'alias': 'thai', 'title': 'Thai'}]",False
+11,9czvgcYzRHVYRDBrB3baZg,Aroy-D The Thai Elephant,605 Bloomfield Ave,4.0,$$,07044,True,True,False,279,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'catering', 'title': 'Caterers'}]",False
+12,Hy7c5cSiXnyqiprCDnKLEA,Thai Basil,95 Railroad Ave,4.0,$$,06830,True,True,False,249,"[{'alias': 'thai', 'title': 'Thai'}]",False
+13,8ib2voNmppFK9e6aQz4gTg,Pandang,8-12 Village Plz,4.0,$$,07079,True,True,False,167,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",False
+14,cADZEB7qFr-8I3fVxHbM1A,Andaman Thai Bistro,1843 1st Ave,4.0,$$,10128,True,True,False,148,"[{'alias': 'thai', 'title': 'Thai'}]",False
+15,kAwN-eXOLkZ4OJSRgmjojw,Futigi,164-04 69th Ave,3.0,$$,11365,True,True,False,126,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'thai', 'title': 'Thai'}]",False
+16,dJdIEYv56jTBkU6hAnSypw,Awang Kitchen,84-05 Queens Blvd,4.0,$$,11373,True,True,False,151,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'indonesian', 'title': 'Indonesian'}]",False
+17,ybczZr7m8jZtGe0qDPXW5w,Accent Thai Kitchen,631 Mclean Ave,3.0,$$,10705,True,True,False,136,"[{'alias': 'thai', 'title': 'Thai'}]",False
+18,LQ8ITaZIbaiQ8pHPOx5i6w,SkyIce Sweet & Savory,63 5th Ave,4.0,$$,11217,True,True,False,752,"[{'alias': 'icecream', 'title': 'Ice Cream & Frozen Yogurt'}, {'alias': 'thai', 'title': 'Thai'}]",False
+19,ZXigwMMfiUcbKkES2gHEuQ,Thai Station,2161 Merrick Ave,3.5,$$,11566,True,True,False,173,"[{'alias': 'thai', 'title': 'Thai'}]",False
+20,D65eObUbArHu6UiQsUasgw,HinoMaru Ramen,33-18 Ditmars Blvd,4.0,$$,11105,True,True,False,893,"[{'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'soup', 'title': 'Soup'}]",False
+21,eWSZHH4kfzS5NeNU1CMcyg,Amayar Kitchen,111 E Passaic St,5.0,,07607,False,False,False,8,"[{'alias': 'burmese', 'title': 'Burmese'}]",False
+22,fePu8xy0ir_ikZcS_vVSBA,Asuka Sushi,300 W 23rd St,4.0,$$,10011,True,True,False,966,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+23,RkPakW9XloEm-QB0eNlHmw,Mumbai Curry House Indian,123 Allen St,4.5,,10029,True,True,False,76,"[{'alias': 'indpak', 'title': 'Indian'}, {'alias': 'thai', 'title': 'Thai'}]",False
+24,dqjko5ndMGayALuhwq3ghQ,Thailicious,71 Clinton St,4.5,$$,10002,True,True,False,119,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+25,G6X_xXJUJyAvDBs-AQKM-g,Zou Chinese Cuisine,252 Merrick Rd,4.0,,11563,True,True,False,25,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+26,Y0F5QFtfAFdQDSKMl8LDTQ,Kai Yang,345 Bloomfield Ave,4.5,$$,07042,False,True,False,158,"[{'alias': 'thai', 'title': 'Thai'}]",False
+27,CY1lJBQatCNo4-_ljlS1rA,Unique Fusion Restaurant,586 West 207 St,5.0,$$,10034,True,True,False,61,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'thai', 'title': 'Thai'}]",False
+28,9BubpdklvRdDeDND-FfoEA,Spicy Shallot 2,1208 W Boston Post Rd,3.0,$$,10543,True,True,False,90,"[{'alias': 'thai', 'title': 'Thai'}]",False
+29,Kjm5PwLywk7VICM6_tVRYQ,Dim Sum Garden 稻香點心坊,13505 40th Rd,4.0,,11354,True,True,False,65,"[{'alias': 'dimsum', 'title': 'Dim Sum'}, {'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",False
+30,GURmB4kTMLpG8AGjx52ILw,New Pinang South East Asian Cuisine,11110 Queens Blvd,3.0,$$,11375,True,True,False,259,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+31,pjCLHrmXcfb2BLaZS1fXsA,Thai V Express,203 E 26th St,3.5,,10010,True,True,False,29,"[{'alias': 'thai', 'title': 'Thai'}]",False
+32,w2XTAF56oI2ywMGc9W6SQA,Thai Leaf,611 86th St,3.0,,11209,True,True,False,52,"[{'alias': 'thai', 'title': 'Thai'}]",False
+33,ykf5siP-2CXY3leFbeeabQ,An'Nam,234 W 48th St,4.0,$$,10036,True,True,False,297,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'thai', 'title': 'Thai'}]",False
+34,m4LsYh1uad-k6Bfyd4bIrA,Bamboo Ya,69-12 Austin St,4.0,$$,11375,True,True,False,140,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'bars', 'title': 'Bars'}]",False
+35,AwiDxfV8j7x3_7dtUEkWmQ,Saigon Kitchen,2024 Center Ave,4.0,$$,07024,True,True,False,377,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+36,3LQD4aB3UYPteZfsyglV4w,Jin Sushi & Thai,1708 E 16th St,4.0,$$,11229,True,True,False,95,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",False
+37,s-UAKra4P0sFE9ylXlwwfA,Le Viet Cafe,1750 2nd Ave,3.5,$$,10128,True,True,False,127,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+38,c7z96m0UdMkJRhlz0Ht5XQ,Siri Thai,641 10th Ave,4.0,$$,10036,True,True,False,215,"[{'alias': 'thai', 'title': 'Thai'}]",False
+39,2rjcqpDzCIHh1cyNFSh-4w,Asian Bowl,101-11 Queens Blvd,3.5,$,11375,True,True,False,189,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'burmese', 'title': 'Burmese'}]",False
+40,gJMMX5Ip4AsulbzxMZgdYg,Thaibird,2330 Borden Ave,5.0,,11101,True,True,False,4,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'chicken_wings', 'title': 'Chicken Wings'}]",False
+41,xR2Yeb_Nh0MOAiUIaqaVOg,Tavern 157,157-12 Northern Blvd,4.5,$$,11354,True,True,True,403,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",False
+42,c9I4-T9wTlMmJEHb4obEdQ,Happy Gathering,3220 34th Ave,3.0,$,11106,True,True,False,51,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+43,V6lfm-yKrVqIQh_QZv7Qvg,Lemonleaf Grill,536 S Broadway,3.5,$$,11801,False,True,False,222,"[{'alias': 'thai', 'title': 'Thai'}]",False
+44,4xQ7ZLWHFALOmJJURDOCUw,Curry 42,220 E 42nd St,4.0,,10017,False,False,False,6,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'thai', 'title': 'Thai'}]",False
+45,HyENSD29rcF_5iSFakhMSw,Song,295 5th Ave,3.5,$$,11215,True,True,False,1074,"[{'alias': 'thai', 'title': 'Thai'}]",False
+46,FL7aHCbKMDSpchQS1KucHQ,Thai O'Brien's,478 Ave E,3.5,$$,07002,True,True,False,137,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'karaoke', 'title': 'Karaoke'}]",False
+47,_pZk7XbpyqTSfHBllTGAEg,Station Thai Bistro,2 E Ridgewood Ave,4.0,,07450,True,True,False,18,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,8Jz2IfS-BGCm1GniqJVe2A,Saketumi Asian Bistro,118 Montague St,4.0,$$,11201,True,True,False,146,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+49,xt8AcJzq61ksZbMJ1o--7Q,Wasabi Thai,897 Broadway,4.5,$,07002,False,True,False,110,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,8cyRl5HIQzbkYD7orq223g,SHI,4720 Center Blvd,3.5,$$,11109,True,True,False,822,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",False
+1,hSiTqxKKgvQSI5x5VdMjoQ,Top Thai - Brooklyn,8510 4th Ave,3.5,$$,11209,True,True,False,310,"[{'alias': 'thai', 'title': 'Thai'}]",False
+2,nCQCd3iHbmGJzpbKk5cDhA,Noodle Box Fusion,43-15 Bell Blvd,4.5,$$,11361,True,True,False,101,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'ramen', 'title': 'Ramen'}, {'alias': 'cantonese', 'title': 'Cantonese'}]",False
+3,ooHTw6KGNXsKj5TmyHKVuQ,Lucy's Vietnamese Bushwick,262 Irving Ave,3.5,$$,11237,True,True,False,495,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+4,joPF7gCKubbmloUSsH5NzA,Thai Cella,712 9th Ave,4.0,,10019,False,False,False,1,"[{'alias': 'thai', 'title': 'Thai'}]",False
+5,HdOlH7fR1Lx6IZAisL6C_w,Beijing Dumpling,116-14 Queens Blvd,4.0,$,11375,True,True,False,92,"[{'alias': 'chinese', 'title': 'Chinese'}]",False
+6,OPSCHpuBSthP7UwnMm0GSA,Spice,975 Amsterdam Ave,3.5,$$,10025,True,True,False,193,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+7,m_XJOT1R6whUQTfBfB5uGg,Hug Thai Cuisine,2618 Merrick Rd,4.0,$$,11710,True,True,False,80,"[{'alias': 'thai', 'title': 'Thai'}]",False
+8,ClGOKso24nhGDmlFr7rToA,Lemon Leaf Thai Restaurant,197 Mineola Blvd,3.0,$$,11501,True,True,False,180,"[{'alias': 'thai', 'title': 'Thai'}]",False
+9,nybFUH8FR1Dcn3DwYxe__Q,Durian,147 Chatsworth Ave,4.0,$$,10538,True,True,False,105,"[{'alias': 'thai', 'title': 'Thai'}]",False
+10,ieOIBz6Gfqmwm1B0wUzh9g,Mama Lee,213-12 48th Ave,4.5,$$,11364,False,True,False,507,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'taiwanese', 'title': 'Taiwanese'}]",False
+11,7hyQqnnAisSL-nfIWCPziQ,Chop Shop,254 10th Ave,3.5,$$,10001,True,True,False,247,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+12,WM2tNgae2GSiUu-UPdbk6w,Eat Thai,654 9th Ave,4.0,$$,10036,True,True,False,60,"[{'alias': 'thai', 'title': 'Thai'}]",False
+13,V-rY0hlPjAghV14jOlVUiQ,Nikko,1280 Amsterdam Ave,3.5,$$,10027,True,True,False,364,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'sushi', 'title': 'Sushi Bars'}]",False
+14,LvmDVd1OlRGFdtY4RH2iSQ,Abaya Thai,318 W 36th St,2.5,$$,10018,True,True,False,73,"[{'alias': 'thai', 'title': 'Thai'}]",False
+15,ov8JN2CZGk0fwDO3rtQYSg,Rice Thai Kitchen,311 7th Ave,3.0,$$,11215,True,True,False,214,"[{'alias': 'thai', 'title': 'Thai'}]",False
+16,CPv_PzTVuk2q-8Ndi6pXaQ,OK Ryan Restaurant,4104 College Point Blvd,4.0,$$,11355,True,True,False,167,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'taiwanese', 'title': 'Taiwanese'}]",False
+17,RDsn56-SOlE0cPDXsVz12A,Wild Ginger,424 Sunrise Hwy,3.5,$$,11570,True,True,False,416,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'panasian', 'title': 'Pan Asian'}]",False
+18,o7vqvJmUqnXIG4-WqAZlXQ,Thai Flavors Kitchen,357 Broadway,4.5,$$,11714,False,False,False,217,"[{'alias': 'thai', 'title': 'Thai'}]",False
+19,S0Qydvh12n5E_uodsLa8eA,Co Co Lin Vegetarian House,64-19 Fresh Pond Rd,4.0,$$,11385,True,True,False,264,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'vegan', 'title': 'Vegan'}]",False
+20,wdT0AzrOgH_ASFqdWf1pMg,Peter's Kitchen,14909 Union Tpke,3.0,$,11367,True,True,False,95,"[{'alias': 'chinese', 'title': 'Chinese'}]",False
+21,_yWKwNjynMD93fe339j9Wg,MoCA Asian Bistro,107-18 70th Rd,3.5,$$,11375,True,True,False,546,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+22,fEnX6R_foFOc3NriJY4J2Q,Three Bowls Noodle House,63-28 Roosevelt Ave,4.0,$$,11377,True,True,False,85,"[{'alias': 'noodles', 'title': 'Noodles'}, {'alias': 'ramen', 'title': 'Ramen'}]",False
+23,CvSOAN2WWzLRGND4vN1xtA,A1 Asian Fusion,2071 7th Ave,3.5,$$,10027,True,True,False,122,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+24,NebgteFykeM1gwiVgPcCHw,The Handpulled Noodle,3600 Broadway,4.0,$$,10031,True,True,False,832,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+25,EEf5KB5wx340TY7QwDKIqQ,More Express,281 Grove St,3.5,$$,07302,True,True,False,327,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'thai', 'title': 'Thai'}, {'alias': 'soup', 'title': 'Soup'}]",False
+26,8yvD0Vc9cugahfCOl7XLYw,Red Bowl,26 E Prospect St,4.0,$$,07463,True,True,False,121,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+27,0DyF6tokikZqd8bys-Af_Q,To Be Thai,126 Beverley Rd,3.5,$$,11218,True,True,False,190,"[{'alias': 'thai', 'title': 'Thai'}]",False
+28,oF_Uq8SGBHRcz-U5i8wlBQ,Amitabha Vegan Restaurant,6824 Fresh Meadow Ln,4.5,$$,11365,True,True,False,52,"[{'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'noodles', 'title': 'Noodles'}]",False
+29,QMjwVS8CAJ72T5PLiSx3GA,Sweet Chili,1045 Flushing Ave,4.0,$$,11237,True,True,False,113,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'thai', 'title': 'Thai'}]",False
+30,EAkIy8TKrW4yPPDCZyP-Cw,Luckyim Thai truck,46th St & 6th Ave,4.0,$,10017,False,False,False,45,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'thai', 'title': 'Thai'}]",False
+31,AekKkXTaCXlYp95KrxlesA,Little Tiffin,970 Manhattan Ave,5.0,,11222,False,True,False,17,"[{'alias': 'thai', 'title': 'Thai'}]",False
+32,sjEgiJS3AHDDF_IyYD2prw,Thai Coconut,3266 Railroad Ave,3.5,$$,11793,True,True,False,161,"[{'alias': 'thai', 'title': 'Thai'}]",False
+33,KIERtmoOTz7r103MWw08nA,Cafe Chili,172 Court St,3.5,$$,11201,True,True,False,177,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'cafes', 'title': 'Cafes'}]",False
+34,0qFCm4PJPisfknHuTTIwtw,Authentic Thai Cuisine,2225 Jerusalem Ave,4.0,,11566,True,True,False,66,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",False
+35,B9Mbi12NpBJkZcRtQNtMBA,Malaysia Grill,224 W 104th St,4.0,$$,10024,True,True,False,293,"[{'alias': 'malaysian', 'title': 'Malaysian'}]",False
+36,CTUqeP0Z7kgi5Tvsx-mU7A,Satay,4601 Kissena Blvd,3.5,$$,11355,True,True,False,159,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'malaysian', 'title': 'Malaysian'}]",False
+37,r2JVKalbucGf2nryywuL2w,Kopitiam,151 E Broadway,4.0,$$,10002,True,True,False,682,"[{'alias': 'malaysian', 'title': 'Malaysian'}, {'alias': 'singaporean', 'title': 'Singaporean'}]",False
+38,Af6KfYulC0eTyHcTyuIg5g,Fa La La,436 Main St,4.5,,07052,False,False,False,14,"[{'alias': 'thai', 'title': 'Thai'}]",False
+39,mm8gYHxaLLRyv3CslY40TA,Suzuki Shokudo,38-01 31st St,4.5,$$,11101,True,True,False,140,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'ramen', 'title': 'Ramen'}]",False
+40,RwEs6AvU5Cxp_ENodsgxHw,Nana,406 Central Ave,3.5,$$,07307,True,True,False,115,"[{'alias': 'thai', 'title': 'Thai'}]",False
+41,B9_TgZa8rgW5oZOtXZUMCw,Laut Singapura,31 E 20th St,4.0,,10003,True,True,False,182,"[{'alias': 'singaporean', 'title': 'Singaporean'}]",False
+42,u3JBjUgrCdxy6WF0tnX3SA,Aji Sushi House,3606 Ditmars Blvd,4.5,$$,11105,True,True,False,453,"[{'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+43,3Qpi419I29t3sCHMzC_h-g,Harvest Chinese & Thai Cuisine,1502 1st Ave,3.5,$$,10075,True,True,False,94,"[{'alias': 'thai', 'title': 'Thai'}, {'alias': 'chinese', 'title': 'Chinese'}]",False
+44,zdB4nA0Xpyxhi5oIt6wVng,JoJu,555 5th Ave,4.5,$$,10017,True,True,False,136,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+45,UBnrFZuqa1nMrV7ncWHBwA,Corthaiyou,1310 Cortelyou Rd,3.5,$$,11226,True,True,False,182,"[{'alias': 'thai', 'title': 'Thai'}]",False
+46,coY9hclRerLMPXnurb7mQg,Rolls Rice,40-46 Main St,4.5,,11354,True,True,False,130,"[{'alias': 'chinese', 'title': 'Chinese'}, {'alias': 'gourmet', 'title': 'Specialty Food'}]",False
+47,_Ki5XZTB8mL9RDYGj7KP0w,22 Thai Cuisine,59 Nassau St,2.5,$,10038,True,True,False,187,"[{'alias': 'thai', 'title': 'Thai'}]",False
+48,1xJV03v3g3oP3G5oDlWuoQ,Di An Di,68 Greenpoint Ave,4.0,$$$$,11222,True,True,False,191,"[{'alias': 'vietnamese', 'title': 'Vietnamese'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+49,G_C-murI79nWDtR10h14XA,Frenasia,16335 Crossbay Blvd,3.5,$$,11414,True,True,False,241,"[{'alias': 'asianfusion', 'title': 'Asian Fusion'}, {'alias': 'sushi', 'title': 'Sushi Bars'}, {'alias': 'japanese', 'title': 'Japanese'}]",False

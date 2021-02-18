@@ -1,0 +1,510 @@
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,7YYp_2WYWdRSt_NohV7Psw,Casa Birria NYC,86th & 3rd Ave,5.0,,10028,False,False,False,14,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+1,6Ct7OeTRn4caY9g0swFBsw,La Contenta,102 Norfolk St,4.5,$$,10002,True,True,False,765,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+2,BbMUXd69i0tlWS2aoppwaQ,El Camion,194 Ave A,4.0,$$,10009,True,True,False,696,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+3,RzKR9QcYP03EQ_8DxTxowg,Barrio Chino,253 Broome St,4.0,$$,10002,True,True,False,1110,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+4,Zk8UgB9MDoIHWFYgAxNlIQ,De Mole,2 Hope St,4.5,,11211,True,True,False,124,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+5,9aJ1MVTthZw3QjqoG7mPjg,Rosie's,29 E 2nd St,4.0,$$,10003,True,True,False,732,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+6,f7g3GhoQs9nQVTJEL2p48Q,Gran Electrica,5 Front St,3.5,$$,11201,True,True,False,485,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+7,YFL1rAdlv7J0cswHVhvCtQ,Ruta Oaxaca Mexican Cuisine,35-03 Broadway,5.0,,11106,True,True,False,20,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+8,OwH9eXxsBeeYl8s7TXUBiA,San Blas,140 Montague St,4.5,$$,11201,True,True,False,56,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",False
+9,pjBDqn25X3The5AhZD3glw,El Zason,411 Atlantic Ave,5.0,,11217,True,True,False,5,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+10,8CTaeOtqr461Ah5yWcnCPw,Fatty Daddy Taco,152 Smith St,4.0,$$,11201,True,True,False,169,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,pG-IkylRFOb-HlaD8NwvvQ,La Loteria,29 7th Ave S,4.0,$$,10014,True,True,False,327,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+12,zash7ih8QWBk3Kl3AAeyCQ,Los Tacos NYC,117 E 7th St,4.5,,10009,True,True,False,9,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+13,mhrLDFTxUzW2koRAzjlt5g,Chavela's,736 Franklin Ave,4.0,$$,11238,True,True,False,1100,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+14,Wx6lMnEh7dCmX-9PQF1Ifw,Toloache 50,251 West 50th St,4.0,$$,10012,True,True,False,1990,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+15,9_CEU7Wmvmwlyvqr-PJD6w,Ofrenda,113 7th Ave S,4.0,$$,10014,True,True,False,977,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+16,-zRvVtLPkghNzPCqmcWLHQ,Taquitos Mexico,2223 Avenue X,4.5,,11229,True,True,False,10,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+17,M6XZ8IIOGmBfh79vk79Eqw,Tacombi - Williamsburg,242 Metropolitan Ave,4.5,,11211,True,True,False,60,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+18,znlol6dCKwjoXpZZwV_ZOg,Nacho Macho Taco,82 5th Ave,4.5,$,11217,True,True,False,192,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+19,PAJdNrD4HFBN16OAFeDx4A,Ponche Taqueria & Cantina,420 W 49th St,4.0,$$,10019,False,True,False,506,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+20,67PwiU_HvwcSvXvq-kZcWg,Alan's Kitchen Mexican Cuisine,316 W 39th St,4.5,$$,10018,True,True,False,83,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+21,fJXCMGOhaS6rKGjoGldSSQ,Taqueria Tepango,568 Myrtle Ave,4.0,$,11205,False,True,False,220,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+22,nrwOQSXoRXfAYhkdjiUk8g,Toro Loco,15 Stone St,4.0,$$,10004,True,True,False,262,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+23,PqqnNrUtU7XTKQvUM4cyqQ,Bar Verde,65 2nd Ave,4.5,$$,10003,True,True,False,278,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+24,1ux5rxwWjKxoXHUyGynwSg,Purepecha,213 Smith St,4.0,$$,11201,True,True,False,50,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+25,mmAlHhnTDXIohPC3wfl0hQ,Mesa Coyoacan,372 Graham Ave,4.0,$$,11211,True,True,False,769,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+26,FhPAf4w6t0KsujSQBHH_-w,Taqueria Casa Imelda,82 S 4th St,4.5,,11249,True,True,False,7,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+27,dgaNriM1VdI2nGochhHE_g,Casa Enrique,5-48 49th Ave,4.0,$$,11101,True,True,False,1232,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+28,ifGXrRqs-zp6ek7LsoozrQ,Taqueria Diana,129 2nd Ave,4.0,$,10003,True,True,False,735,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+29,J9pgjC191T-odCmTAG-grQ,El Diablito Taqueria,60 E 3rd St,4.0,$,10003,True,True,False,382,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+30,XipQLDbyTl5tsLlyzAWzug,Jajaja Plantas Mexicana,162 E Broadway,4.5,$$,10002,True,True,True,974,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'bars', 'title': 'Bars'}]",False
+31,IfIyjm4SfORGYPbaAWST3g,Mexicue,225 5th Ave,4.0,$$,10010,True,True,False,504,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+32,ci0-GO_iMb0NdTCUYWjocQ,Noche De Margaritas,1726 2nd Ave,4.0,$$,10128,True,True,False,366,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+33,vyKBwzRdNX4yiJDIFv37iw,Oxomoco,128 Greenpoint Ave,4.0,$$$,11222,False,False,False,336,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+34,4c4Uwb5yUqXJ-inkcDinIg,Mcondo Tacos,502 Grand St,4.0,$$,11211,True,True,False,319,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+35,r5NT8-nV4py2c-mppTKucQ,Essex Taqueria,123 Essex St,4.0,$,10002,True,True,False,285,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+36,_5G0SOM1ogWTsSmPBGRfzA,El Gallo Taqueria,214 Highlawn Ave,4.0,$$,11223,True,True,False,286,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+37,7bD22UAtH56ikWYslOSIQg,Calexico - Upper East Side,1491 2nd Ave,4.0,$$,10075,True,True,False,724,"[{'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+38,0WhwvW1E1Rld_B6APA7VRw,Aleli Mexican Restaurant,7804 3rd Ave,5.0,,11209,True,True,False,37,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",False
+39,ipmOYDh9snm3ZUv546MACQ,Taqueria Milear,752A Nostrand Ave,4.0,$,11216,True,True,False,212,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+40,SXWnyFNLCehVlJPRxk7gAg,Anejo Tribeca,301 Church St,4.0,$$,10013,True,True,False,441,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",False
+41,zjnnccSIpMdx5fN-MxAr_w,La Superior,295 Berry St,3.5,$$,11211,False,True,False,595,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+42,Xak3sB5LkJgjgYYf6_hQLA,Casa Taqueria,40 Gold St,4.0,,10038,True,True,False,64,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,CfOBb6NU2awo8xclJpKU3g,Chela Modern Mexican,408 5th Ave,4.5,$$,11215,True,True,False,493,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+44,FeIQnJwhsNjyOIX_uhNYXg,Ojalá- Authentic Mexican,852 Fulton St,4.5,,11238,True,True,False,50,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+45,SCQvI5pAJmD-OMm37kkS6Q,DORADO Tacos & Quesadillas,28 E 12th St,4.0,$,10003,True,True,False,660,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'gluten_free', 'title': 'Gluten-Free'}]",False
+46,BK99GBVm_V6n_CTsc65mTw,Esqueleto Taqueria,155 Atlantic Ave,5.0,,11201,False,True,False,1,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+47,_URXTaYBbd2XX5qJbDkKAg,Taco Morelos,183 Bedford Ave,4.0,$,11211,True,True,False,98,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+48,TgoYhgbPCYhLBNtpue3QHg,Maya,1191 1st Ave,3.5,$$,10065,True,True,False,953,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+49,skN-mgnOezFQr9YNh5G5TQ,Lolita's Kitchen,1364 Lexington Ave,4.0,$,10128,True,True,False,96,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'burgers', 'title': 'Burgers'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,L5eqJRy8Yx_4El6rUxWmBw,El Vez Burrito Bar,259 Vesey St,4.0,$$,10282,True,True,False,135,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+1,VCVCmflFEkQ0qRDQ805P2g,Xochitl Taqueria,176 Smith St,5.0,,11201,True,True,False,10,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+2,cQWUPxESnMx69dshABS_rg,Taquitos Mexico,6720 14th Ave,4.0,$,11219,True,True,False,211,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+3,jnEv25Y2DosTq2sNnvmC9g,Los Tacos No.1,75 9th Ave,4.5,$,10011,False,False,False,3068,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+4,8_NilECM6qg_L7WYb25uNw,Luchadores,87 South St,3.5,,10038,True,True,False,84,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+5,NOh24SMS6k4pzNv8Ds7KDg,Cafe Habana,17 Prince St,4.0,$$,10012,True,True,False,3157,"[{'alias': 'cuban', 'title': 'Cuban'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+6,N90gLDq4XgqYanlRqaeNKg,Acapulco,1116 Manhattan Ave,4.0,$,11222,False,True,False,284,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'newamerican', 'title': 'American (New)'}]",False
+7,DQuwci5xgJxXx7dxxp9FBA,Taqueria St. Marks Place,79 St Marks Pl,4.0,$$,10003,True,True,False,434,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+8,iK2jJQA72XRjf4nUD3cAnA,Tortilleria Mexicana Los Hermanos,271 Starr St,4.0,$,11237,False,True,False,718,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+9,ry7XCoXXxS0DxRmzZLFybw,Taqueria Gramercy,218 3rd Ave,4.0,,10003,True,True,False,92,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+10,zBORlLYwMqqJ_GOX6K31mw,Pedro's Mexican Bar & Restaurant,73 Jay St,2.5,$$,11201,True,True,False,493,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,-kVueEw_fyO1Q2Gkmj6Few,Taqueria Santa Fe,4708 47th Ave,4.5,$,11377,True,True,False,381,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+12,v8tuFxvNkKdZytWTn9BhMA,Fonda Chelsea,189 9th Ave,4.0,$$,10011,True,True,False,348,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+13,tvqtAjAyc7dplVVwhw3VZQ,La Contenta Oeste,78 W 11th St,4.0,$$,10011,True,True,False,238,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+14,0Y8dv9UHGquFkWlVK7PdjA,Buddy's Burrito & Taco Bar,260 Court St,4.0,$,11231,False,True,False,174,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+15,njV8tFM7PivgDhWng_Lb6g,Las Margaritas,7206 3rd Ave,4.0,$$,11209,True,True,False,247,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+16,jy6AHLVJ7cVJZ4Fl_ds3Qg,Los Tres Chiflados,1046 Flatbush Ave,4.0,$$,11226,True,True,False,106,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+17,hOLv0a65RSb5QvFd0FrYjw,Taqueria Santa Fe,214 Stanhope St,4.5,$,11237,True,True,False,118,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+18,FavssEgZjXFi2unEXePkVQ,Tacombi - Bleecker Street,255 Bleecker St,4.0,$$,10014,True,True,False,382,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+19,Ck09FempamAKGSPsV_bX-A,Xixa,241 S 4th St,4.5,$$$,11211,True,True,False,587,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",False
+20,L3REPLCvQpMapYPd_fkS-A,Los Mariscos,409 W 15th St,4.5,$,10011,True,True,False,611,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+21,boRM4i0UQswxQIp6CA9y_A,La Esquina - SoHo,114 Kenmare St,3.5,$$,10012,False,True,False,2040,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+22,ba5xIqz4IYmvxSujBH0mTg,Chilango Taco,906 40th St,4.5,,11219,True,True,False,7,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+23,DY2wlHlgC5eHITs-d5rT4w,Panchos,964 Amsterdam Ave,4.0,$,10025,True,True,False,62,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+24,6ZfVmImuKJg9lB1PF4pfPg,Taqueria Fort Greene,154 Carlton Ave,4.0,,11205,True,True,False,27,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+25,_M5FVY4hkcuU-ASdVZPfRQ,Tacos El Bronco,4324 4th Ave,4.0,$,11220,False,True,False,601,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+26,X2C0_I0seTtjW9uL8e8FBw,Don Chingon,216 Flatbush Ave,4.5,$$,11217,True,True,False,351,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+27,kcywDOgRlBPLW3eTMUgxEw,Grand Canyon Restaurant,143 Montague St,4.5,$$,11201,True,True,False,77,"[{'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}]",False
+28,1NL-Uk5v0PYtLNulhO1YRw,El Rinconcito Mix,774 St Johns Pl,4.0,,11216,True,True,False,47,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'dominican', 'title': 'Dominican'}]",False
+29,ND2PgVHYAF4IdaV6Zse5hQ,Taqueria al Pastor,128 Wyckoff Ave,4.5,$,11237,True,True,False,92,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+30,Nnuz_Ic0IdWOUbl64r4Hkg,Fonda Park Slope,434 7th Ave,4.0,$$,11215,True,True,False,820,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+31,xemN4tP9RlK5c-yUT-M71Q,Mamasita Bar & Grill,818 10th Ave,4.0,$$,10019,True,True,False,1175,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",False
+32,ub2VfE7SRLJABAClzGZp3A,Tacombi - Flatiron,30 W 24th St,4.0,$$,10010,True,True,False,666,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+33,tuP7STBjszTvKcQLeFMnkw,The Great Burrito,522 Columbus Ave,4.0,$$,10024,True,True,False,281,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'newamerican', 'title': 'American (New)'}]",False
+34,rbAxZRKdMoMxeonDTmooFg,El Vez,259 Vesey St,3.5,$$,10282,True,True,False,665,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+35,DHFEpeJXemrdxIuGGcyurg,De Mole,4502 48th Ave,4.0,$$,11377,True,True,False,618,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+36,NXjCypQNl7tBrdR3gkFqdg,Lupita's Restaurant,2049 2nd Ave,4.0,$$,10029,True,True,False,128,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+37,jeWIYbgBho9vBDhc5S1xvg,Chano's Cantina,35-55 31st St,4.0,$$,11106,True,True,False,186,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+38,KhGbD1U51KKcl6frzNDa0A,Taqueria El Patron Mexican Grill,51 Lincoln Rd,3.5,$$,11225,True,True,False,202,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+39,l0ZOGV9tohkpfHiZ-3XSRg,Friducha,946 Manhattan Ave,4.0,$$,11222,True,True,False,88,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+40,6VRIJ7fHe35-baWzkgZCUg,Tarachi,222 Greene Ave,4.5,,11238,True,True,False,23,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+41,3DNtS1_3gobrYQBAwDx4DA,Calexico - Greenpoint,645 Manhattan Ave,3.5,$$,11222,True,True,False,721,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+42,KyOtOluTH8c8SICpf85thg,Mesa Azteca,91 Wyckoff Ave,4.0,$$,11237,True,True,False,262,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,zASGm-RyRNTY2xQir2nV_w,Jajaja Plantas Mexicana,119 Kent Ave,4.5,,11249,True,True,False,16,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+44,MfbVI5reXLIIs8Cc2HwgQw,Breakroom,83 Baxter St,4.5,$$,10013,True,True,False,1606,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+45,K4eXKHHG-ycydt7jeZTqSw,Taqueria El Puente,9300 5th Ave,4.0,$,11209,True,True,False,116,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+46,VThwGCuC6JVaxAgnmuJDRg,Cilantro,485 Columbus Ave,3.5,$$,10024,True,True,False,436,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+47,iK4T3NlzEqi9Fp619Q8-zA,Abuela Antonia Mexican Restaurant,225 Rockaway Ave,4.5,,11233,True,True,False,17,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+48,7RgdHGMY9Xa2Ur5y7vSBZQ,Homemade Taqueria,45-09 34th Ave,4.0,$,11101,True,True,False,364,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+49,zupIzmhdcH0U6vJQQxDBiQ,Bar Bruno,520 Henry St,4.0,$$,11231,True,True,True,273,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,anBWvFPOce4nl3qLX-H6Rg,El Mero Mero,35-57 38th St,4.5,$$,11101,True,True,False,107,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+1,B6bEkY9sJ_GU2pD2Rwb4gg,El Mitote,208 Columbus Ave,3.5,$$,10023,True,True,False,508,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+2,4zBGXDXg9DzK0IROwCUeFg,Cowgirl Seahorse,259 Front St,4.0,$$,10038,True,True,False,588,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'southern', 'title': 'Southern'}]",False
+3,ihzI-4yGesoQuAoIocao8g,Tacuba Hell's Kitchen,802 9th Ave,4.0,$$,10019,True,True,False,695,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",False
+4,EHUNrnIgnhwTnpOm3gEESg,Tacuba,35-01 36th St,4.0,$$,11106,True,True,False,670,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+5,qLh8nLAg8UZE-5Cn_ctCLw,El Tenampa,706 4th Ave,4.5,$,11232,False,False,False,92,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+6,d7YbQzGlmawMGAzUHzZvuw,Tacombi - Nolita,267 Elizabeth St,3.5,$$,10012,True,True,False,1123,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+7,Jd2_ZC4ugEMSY9ElivNZgg,Summer Salt Baja Cali Grill,30 East 23rd St,4.5,,10010,True,True,False,105,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",False
+8,2iqsjuh8Mpm_3p6s-G9zkQ,Taqueria Tlaxcalli,2103 Starling Ave,4.5,$$,10462,False,True,False,636,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+9,tCuPhpmf1PaYe5dmwdq8Ew,Guacamole Mexican Restaurant,768 Amsterdam Ave,4.0,$$,10025,True,True,False,182,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+10,SPvW-SV2Ed7z8k-QXDUIDg,Tacos Matamoros,4508 5th Ave,3.5,$,11220,False,True,False,581,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,e7krRmyE5upHv2gsEOdR8w,Mayamezcal,304 E 6th St,4.0,$$,10003,True,True,False,604,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+12,oSFL1AVZYouS4YrDjoLyLA,Baby Bo's Cantina,627 2nd Ave,4.0,$$,10016,True,True,False,636,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+13,J_9-q-WFMWg5swNVzzZ_XA,Lupe's,110 Ave Of The Americas,3.5,$$,10013,True,True,False,395,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+14,_HxxUvRp-0FMH_RoEzG1TA,Barnacho,920 2nd Ave,4.0,$$,10017,True,True,False,227,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+15,PbLGoaIkihF2JPnVRFtxxw,Oaxaca Taqueria,87 Beaver St,3.0,$,10005,True,True,False,76,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+16,ojeMH0rbOOMx9ajChbVkJQ,Papatzul,55 Grand St,3.5,$$,10013,True,True,False,430,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+17,FXgSgiLg6xgOO8zrG51mzg,Claro,284 3rd Ave,4.0,$$,11215,True,True,False,204,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+18,9ijkw9x8oSSSnsUo5uR4Xw,Taco Santana,301 Keap St,4.0,$,11211,True,True,False,157,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+19,r0Krxbk7O1KRjgvOYMHMug,EL Gallo Taqueria,369 Broome St,4.5,,10013,True,True,False,18,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+20,M1YYZ9cTVuMXLji_XF6rzg,Dos Caminos,373 Park Ave S,3.5,$$,10016,True,True,False,1213,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+21,AUyKmFjpaVLwc3awfUnqgQ,Chela & Garnacha,33-09 36th Ave,4.5,$$,11106,True,True,False,390,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+22,5SOM3bh1R5K3RZ9E20TxUg,Alma Restaurant,187 Columbia St,3.5,$$,11231,True,True,False,496,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+23,R5jpETY0OshPn-AeJjs0fA,Dos Caminos,475 W Broadway,3.5,$$,10012,True,True,False,1090,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+24,Ai2mbsb0cYZoMWC3DAAP3Q,B'klyn Burro,922 Fulton St,4.0,$$,11238,True,True,False,115,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+25,kn9rgR4KlvyTTi-s76OIaQ,Toloache 82nd,166 E 82nd St,4.0,$$$,10028,True,True,False,426,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+26,jF9hIgD5MvZBXyKvztUtSA,GMC Temaxcal Deli & Grocery,163 Park Ave,4.5,$,11205,True,True,False,52,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'delis', 'title': 'Delis'}]",False
+27,uVfOB37NyYEGRs5FITM-nQ,Leyenda,221 Smith St,4.0,$$,11201,True,True,False,235,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+28,aTBxCoZDOnqAXPDdQmrxMg,Taqueria Mexico 2000,131 Grand St,4.0,,11249,True,True,False,19,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+29,vpWPgusmUD0cYNKf0uEQIw,Cemitas El Tigre,45-14 48th Ave,4.5,$$,11377,True,True,False,233,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+30,rmCxC9dkkjHOw_6GXdZtig,Amelia Grilled Burrito,690 Metropolitan Ave,4.5,,11211,True,True,False,20,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+31,1vkYZbdwMpqteI8x_sS68g,Fast and Fresh Burrito Deli,84 Hoyt St,4.0,$,11201,True,True,False,183,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'delis', 'title': 'Delis'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+32,Irajo1p3HkygjlhDiIZ_hg,Restaurant  El Maguey,3917 4th Ave,4.5,,11232,True,True,False,48,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+33,NKDLr_aBy5WRX8-JR_SGyQ,Calaca,139 Putnam Ave,4.5,$$,11238,True,True,False,187,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+34,zgBCa3-Ht4xBHQGyP4Bufg,Taco Mix,158 Delancey St,4.0,,10002,True,True,False,41,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+35,UmY9dyGOclJ0tGbn1IozlA,Zaragoza Mexican Deli & Grocery,215 Ave A,4.0,$,10009,False,False,False,308,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'grocery', 'title': 'Grocery'}]",False
+36,AnAZaBsEuBjYvzaPMTN0oQ,Flats Fix Taqueria,28 E 16th St,4.0,$$,10003,True,True,False,195,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+37,W87C7jAakZL1GkV5kzb5XA,Pinks Cantina,203 Chrystie St,4.0,,10002,True,True,False,19,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'lounges', 'title': 'Lounges'}]",False
+38,xBx9GgsH2Npbcp7foPobQA,Castro's Restaurant,511 Myrtle Ave,3.5,$,11205,True,True,False,277,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+39,l-ELX4tgoaNucr33ZvdzbQ,El Santo Taqueria,1053 Flushing Ave,4.5,$$,11237,True,True,False,45,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+40,ykTNq1F-Vpfw4i4xGhPS0Q,The Little Taco House,246 West 4th St,4.5,,10014,True,True,False,53,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+41,sTu5z5HUcIYykg97HHj8xA,El Centro,824 9th Ave,4.0,$$,10019,False,True,False,844,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+42,nm7uUS4Qa6xB-VMm1bnbEA,Dos Toros Taqueria,64 Court St,3.5,$$,11201,True,True,False,95,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,XO6IbZn2oxonPrfcXHK4HA,Casa Mexicana,894 Amsterdam Ave,4.0,$$,10025,True,True,False,200,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+44,4jucppz-BA0MiY06DjuBYQ,Frijolito's,3446 Broadway,4.5,$,10031,True,True,False,149,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+45,37UBDZl-wH6UBRVjAif_pw,Blue Tijuana,15-24 College Point Blvd,4.0,$$,11356,True,True,False,89,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+46,G92jSUckfs4MhD6bGPyHow,Taqueria Diana,367 Metropolitan Ave,4.0,$$,11211,True,True,False,77,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+47,34LM8_lP8iwizHBu6YgaQQ,El Jeffe,1483 Fulton St,4.5,$$,11216,True,True,False,261,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",False
+48,vsQjfOXS10MQ8_CZ3amhVQ,Downtown Bakery Cocina Mexicana,69 1st Ave,4.0,$,10003,True,True,False,258,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'salad', 'title': 'Salad'}]",False
+49,A1tXlvO0BsRhCnujvSuKkA,Calexico - Union Street,122 Union St,3.5,$,11231,True,True,False,253,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,bCCW3DOK5vDR6x4qb2YzFw,Calexico - Park Slope,278 5th Ave,3.5,$$,11215,True,True,False,449,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+1,IBY_PUKMfcbHAtO8BTqigg,Moho Mexican Grill,38-05 Bell Blvd,4.0,,11361,True,True,False,80,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+2,vj-kTW34lV2ePesZRUUy0Q,Taqueria Mariposa Rosa,55 Grove St,5.0,,10014,True,True,False,4,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+3,PWFK0nvJ23Xkk_B4C5Q4Aw,Factory Tamal,34 Ludlow St,4.5,$,10002,True,True,False,106,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+4,v4_89HfTm05NFTuukjsl_g,The Burrito Box,885 9th Ave,4.0,$,10019,False,True,False,891,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+5,rHp_v8fU82U93hYPj3L_3A,Nacho Macho Taco,417 Prospect Pl,4.0,$$,11238,True,True,False,296,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+6,k3iUNUGsl-xpQ_EsOfTadA,Ollin Restaurant,339 E 108th St,4.5,$$,10029,True,True,False,411,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+7,Drh9-6n7lWNOSnlP5vmOXA,Xilonen,905 Lorimer St,4.5,,11222,False,False,False,7,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",False
+8,HqI1ROCmZa2THlBxT9nyrA,Las Palmas Restaurant,3891 Broadway,4.0,$$,10032,True,True,False,172,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+9,95a04LtXLX6gePhPEwff9A,Amaranto Mexican Restaurant,887 Hart St,4.5,$$,11237,True,True,False,354,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+10,08KCenrjRbL7vzfHjdGYyg,Estrellita Poblana IV,45 Westchester Sq,4.0,$$,10461,False,True,False,179,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,uwUzZf2IQFVb5puJuNd9rA,Blue Agave Mexican Restaurant & Bar,7201 16th Ave,3.5,$$,11204,True,True,False,139,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+12,YKAwpTnKO-n5vB9-pqaCLQ,Taqueria Y Fonda,968 Amsterdam Ave,3.5,$,10025,True,True,False,497,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+13,xlv_CcDXH1hkG4Wq5mECkQ,Vamos Al Tequila,162 Franklin St,3.5,$$,11222,True,True,False,297,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+14,HbeROfe2J4ThLp36UxqZtw,West End Taqueria,301 W 96th St,4.5,,10025,True,True,False,59,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+15,PHMkwS5nmo4IUXbcg0OcAg,Jajaja Plantas Mexicana,63 Carmine St,4.5,$$,10014,True,True,True,254,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegan', 'title': 'Vegan'}, {'alias': 'bars', 'title': 'Bars'}]",False
+16,7I-4qCgJq3n0yan1ChE-ew,Zona Rosa,571 Lorimer St,3.5,$$,11211,True,True,False,454,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+17,pcQ9ld7xuX9EXTCAoakkbQ,Tacombi - Financial District,74 Broad St,4.5,$$,10004,True,True,False,31,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+18,j4dGkqL-OK9YH8Sl2eOWEg,5 Burro Cafe,72-05 Austin St,3.5,$$,11375,True,True,False,1399,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+19,m3C3d47Bh4NJHGXvT6Rqbg,Mexico 2000 Restaurant,369 Broadway,4.0,$$,11211,True,True,False,143,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+20,ONUgIihg-ROELPgKiWfs7A,Bushwick Taco Company,839 Knickerbocker Ave,4.0,$,11207,True,True,False,188,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+21,SULHf6nGQ8sK0UpG1XU30w,Los Tacos No.1,229 W 43rd St,4.5,$,10036,True,True,False,1855,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+22,By8DjoW6JvyLXMbbcafP4w,El Mexicano Restaurant & Coffee,2102 E 15th St,4.0,$,11229,True,True,False,203,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+23,jQjQHNAM8xXB73kFkfg9kA,Tacos Cholula,25 Ave A,4.5,$,10009,False,False,False,147,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'streetvendors', 'title': 'Street Vendors'}]",False
+24,trOfIBnEr_CxZuLRyGj9FQ,Miti Miti,138 5th Ave,4.0,$$,11217,True,True,False,1098,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+25,hcI6TVxFyVNEPXg3rF1bQw,Oaxaca Taqueria,405 W 44th St,3.5,$,10036,True,True,False,119,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+26,AV9YPCVmq2oKSweNvHg3rw,Casa Coriz,71-28 Fresh Pond Rd,4.0,,11385,True,True,False,32,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+27,Q10FeFs1mtNchv1NbNcsLg,Oaxaca Taqueria,152 E 33rd St,3.5,$$,10016,True,True,False,132,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+28,DjtjAuN5jWd_ukx0YWUFWw,Oaxaca Taqueria,75 Hoyt St,3.0,$,11217,True,True,False,88,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+29,iuYUDoWjPcEYVo1Gz3_3uA,Mallenche Mexican Grill,1621 Church Ave,4.5,$,11226,True,True,False,94,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+30,HKBJGt04_ZSdiIWA_6J8kQ,Tortaria,94 University Pl,3.5,$$,10003,False,True,False,709,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+31,uyOu6ofKz2_TmwXCwaDCGg,Mexicocina Agaveria,708 Washington Ave,4.5,$$,11238,True,True,False,43,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+32,WyiTT3VHjzowMnOnUpZ7TQ,Empellón,510 Madison Ave,4.0,$$$,10022,True,True,False,358,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'desserts', 'title': 'Desserts'}]",False
+33,2u8T56A4qu-MjeuT-v7s_g,Casa Bocado,341 Broome St,4.5,,10013,False,True,False,53,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+34,hSkeb_lmfxnoqg7EVo19Vw,Taco Mix,234 E 116th St,4.0,$,10029,True,True,False,408,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+35,YsDmYRzJo3kiwZvIe1r0Fg,Playa Betty's,320 Amsterdam Ave,3.5,$$,10023,True,True,False,791,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'bars', 'title': 'Bars'}]",False
+36,UwZtUMsxS-mwWpeZnrO49g,Chinantla,657 Myrtle Ave,4.0,$,11205,True,True,False,112,"[{'alias': 'grocery', 'title': 'Grocery'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+37,p7MviobRqz5rvdzmsjBdEw,El Aguila,1634 Lexington Ave,4.0,$,10029,True,True,False,211,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}]",False
+38,7A10pcvHWQhjIj_Nw81hNA,Sobre Masa,53 Broadway,4.0,,11249,True,True,True,5,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+39,iXtZQ7twXQiv7j2ZdxZqUg,Burritos y Mas NY Tex-Mex,1571 Lexington Ave,4.0,$,10029,True,True,False,172,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+40,10tnq8x2qI7ix7VqVP0rMw,Tacombi - Upper West Side,377 Amsterdam Ave,4.0,$$,10024,True,True,False,147,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+41,uvcEo61aL2F8e4PCzwZsYg,Chihuahua,47-02 Greenpoint Ave,4.5,$$,11104,True,True,False,166,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+42,xAP5LWPsd9aedbuj8vo8_Q,Pablito's Taqueria,723 5th Ave,4.0,$,11215,True,True,False,62,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,hdBhZcdZGHkTESrldAObJg,La Morada,308 Willis Ave,4.5,$$,10454,True,True,False,167,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",False
+44,mY_dEQM9poopjV0y4Hvnww,Coszcal De Allende,6824 3rd Ave,4.0,$$,11220,True,True,False,155,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+45,Drb6I9masZDvxQUVcqE2ww,Ho' Brah a Taco Joint,8618 3rd Ave,4.0,$$,11209,True,True,False,800,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+46,dYWjNK07igws9jFNgQmhng,Rosa Mexicano,9 E 18th St,3.5,$$,10003,True,True,False,1465,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+47,v7hwkFxrz2pORrT9Fiiovw,La Lupe,9 Jefferson St,3.5,$$,11206,True,True,False,171,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+48,jzVv_21473lAMYXIhVbuTA,De Mole Astoria,4220 30th Ave,4.0,$$,11103,True,True,False,383,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+49,7al7ikR4Zl-onhoDi175lA,Las Chelitas,7312 13th Ave,4.5,$$,11228,True,True,False,56,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,yvva7IYpD6J7OfKlCdQrkw,Mi Espiguita Taqueria,32-44 31st St,4.5,$,11106,True,True,False,126,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+1,q3SwWmzxZhfbVmid1LRLWg,Taqueria Maria and Ricardo,915 Cortelyou Rd,4.5,$$,11218,True,True,False,83,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+2,kawmpvfSzhDAy9pk8n3MxQ,The Haab,4722 48th Ave,4.0,$$,11377,True,True,False,188,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+3,XI8c4klXYX0b3MV8n8Kteg,Cienega Las Tlayudas de Oaxaca,10432 Corona Ave,4.5,$$,11368,True,True,False,71,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+4,h8J10FpJGaU_4OvP2MgoKQ,Oso,1618 Amsterdam Ave At 140th St,4.0,$$,10031,True,True,False,306,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+5,jUI2Mf4hUFPzhQGmPCL4aA,Amigo by Nai,29 2nd Ave,5.0,,10003,True,True,False,20,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",False
+6,zJmMDGwr6yZ8pjrdC2VciA,Tacombi - Fort Greene,25 Lafayette Ave,3.5,,11217,True,True,False,175,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+7,DTKKEogIt2wQm4UULYVGug,Mad Dog & Beans Mexican Cantina,83 Pearl St,3.5,$$,10004,True,True,False,966,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+8,7xY3vxBy7yFF5dVAi-6hPQ,Pipo's Mexican Restaurant,166 E 118th St,4.0,$,10035,True,True,False,66,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+9,DFRpXRHjOHBxYHiuvwaEQQ,Rosa Mexicano,61 Columbus Ave,3.5,$$,10023,True,True,False,1220,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+10,BeeE3-aYs8QJm64aFaxWFQ,Antojitos Del Patron Mexican Snacks,52 Lincoln Rd,4.5,,11225,True,True,False,24,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,B9GWlhwXaUezB_GpGq1pfA,Los Tacos Al Pastor,141 Front St,3.0,,11201,False,True,False,61,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+12,XjMjGq_2nO1e8pwIq-nEwg,Cantina Mexicana,140 New Dorp Ln,4.0,$$,10306,True,True,False,117,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+13,1nR3kKOs938gcgnw6p5wjg,Sinigual,640 Third Ave,3.5,$$,10017,True,True,False,873,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+14,mVaslo987DCd3YC_0FtWxA,Mole,57 Jane St,3.5,$$,10014,True,True,False,441,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+15,Yilk_Ucz4L6w9EmvAS2gHg,Taqueria Coatzingo,7605 Roosevelt Ave,4.0,$$,11372,True,True,False,442,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+16,BdHWUmVFuo1R8Lctv4K1Ow,El Parador Cafe,325 E 34th St,4.0,$$,10016,True,True,False,436,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+17,xWLSJOiN1mMRHmBmHyjAfw,Mad Dog & Beans Mexican Cantina,5 E 38th St,4.0,$$,10016,True,True,False,500,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+18,0W0m68TNPbodGCA3PhIB4w,The Black Ant,60 2nd Ave,4.0,$$,10003,True,True,False,539,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+19,NvyOagUcodDPHSDF5Vhbmg,Skinny's Cantina,4705 Center Blvd,3.0,$$,11109,True,True,False,494,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+20,U9BX6bMvXHk8umBYnS3Dog,Dos Toros Taqueria,137 4th Ave,4.0,$,10003,False,True,False,1323,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+21,jf95dOTlZB7oPWz9JLgaQA,Borrachito,206 Avenue A,3.5,,10009,True,True,False,33,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+22,2iwT3iutZvmqzmu7oOkWFw,Dos Caminos,1567 Broadway,3.5,$$,10036,True,True,False,601,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+23,6CEVkAlYw9W_ZHOuNylr8w,Home Made Taqueria,517 Meeker Ave,4.5,,11222,True,True,False,14,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+24,YYB2lPax5wAdeNWUcm5WAg,Mexicocina,503 Jackson Ave,3.5,$$,10455,True,True,False,175,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+25,frWu5KfSULdCHd0GmA-ytw,La Palapa,77 St Mark's Pl,3.5,$$,10003,True,True,False,705,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'desserts', 'title': 'Desserts'}]",False
+26,_Kc_mFOk7zMPDcDhkdJE7A,Toloache Thompson,205 Thompson St,3.5,$$,10012,True,True,False,444,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+27,cQGW6BWU6lppWVSwlFBDgA,Cinco De Mayo,837 Washington Ave,3.5,$,10451,True,True,False,107,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+28,ED91L2kUw_pwF_Pd1ZdViQ,Rancho Tequileria,718 Amsterdam Ave,4.5,,10025,True,True,False,35,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+29,ue-iu3tMiHAv7JR0YuhOww,Hell's Kitchen,754 9th Ave,4.0,$$,10019,True,True,False,418,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+30,hyKnC3_a86vaY2iZUkygWw,El Mariachi Restaurant,3311 Broadway,3.5,$,11106,True,True,False,237,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+31,b_3yI7FXcIle71lD9Tulww,Guajillo,2277 1st Ave,4.5,$$,10035,True,True,False,39,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+32,JFlt7BDll3JUDy78vJ2q1g,Las Margaritas Sunset,425 Graham Ave,4.0,$$,11211,True,True,False,53,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+33,-d4NCP8B0sXUUcWFsddVbw,Border Burrito,287 Bedford Ave,4.0,,11211,True,True,False,34,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+34,HOEjrJUwKBxSmQRVSILS8Q,Tepache,361 Halsey St,3.5,$$,11216,True,True,False,344,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+35,wDURpY2e7gQIaB3FgQbE9A,Layali Latina,4517 28th Ave,5.0,,11103,True,True,False,5,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+36,XsxnMWdMpVixA7Yyq_vq7Q,Paloma's,435 Menahan St,4.0,$$,11237,True,True,False,169,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+37,xmbBNjDuGEyeQFTkQPHMLQ,Dos Toros Taqueria,101 Maiden Ln,3.0,$$,10038,True,True,False,112,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+38,MxrjY6myVl8vK0YvCT4r4g,Las Delicias Mexicanas,2109 3rd Ave,4.0,$$,10029,True,True,False,72,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+39,n9NAUB6ivkk45bUz3nm2AA,Grito Mexican Grill,1555 Saint Nicholas Ave,4.0,$$,10040,True,True,False,188,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+40,YOuxIvQh4RbX14Sh98m74Q,Mr Burrito,43-20 Greenpoint Ave,4.5,,11104,True,True,False,31,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+41,xGNzAsakHgbbl9fwgSoiUg,Kahlo,525 West 29th St,4.5,$$$,10001,True,True,False,130,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+42,La78lTOdzTrdFYTGXUp7og,Oaxaca Taqueria,424 Amsterdam Ave,3.5,$,10024,True,True,False,392,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,vySCsap61EhXrspq6TqaUg,La Cemita Restaurant,6417 20th Ave,4.0,$,11204,True,True,False,34,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+44,aStZY21Qmtzm1IS8y1_81g,Móle,178 Kent Ave,3.0,$$,11211,True,True,False,301,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+45,2hmhZim4bX2lbjPSNc7LaA,Javelina,119 E 18th St,3.5,$$,10003,True,True,False,472,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'southern', 'title': 'Southern'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+46,dsKRm2jJPfEZvLLehWKhLg,Mexico Diner,902 Cortelyou Rd,4.5,$$,11218,True,True,False,102,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}]",False
+47,sshS0FJ6tKkmLCcEKXyVkA,"El Tepeyac Food Market: Carniceria, Grocery & Taqueria",1621A Lexington Ave,4.5,$,10029,True,True,False,33,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'importedfood', 'title': 'Imported Food'}, {'alias': 'meats', 'title': 'Meat Shops'}]",False
+48,8ptywurhx5lYbXB0TmjMFQ,Jalapeno King,719 5th Ave,4.0,$,11215,True,True,False,89,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'burgers', 'title': 'Burgers'}]",False
+49,o-ZDSI3ZNh8rv6LrckHbCg,El Mexicano Restaurant and Cafe 2,142 W 9th St,4.5,,11231,True,True,False,28,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,mG_jZh4tRT2JiP9QMC0eiA,Malinche Mexican Restaurant,1018A Nostrand Ave,5.0,,11225,True,True,False,23,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+1,mfJaJSspapkcL2MIsNuUjw,Citrico,681 Washington Ave,4.0,$$,11238,True,True,False,222,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegan', 'title': 'Vegan'}]",False
+2,iw5iI-jFXnDZaeiGt4Weaw,Twisted Mexican Grill,18-33 Astoria Blvd,4.0,$,11102,True,True,False,63,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'halal', 'title': 'Halal'}]",False
+3,XKtxfym5V7XWYk5AFgjx_Q,Molcajetes,520 West Side Ave,4.5,,07304,True,True,False,20,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+4,sCNZGN2Zh1T5hht728hV5Q,Ursula BK,724 Sterling Pl,4.5,,11216,False,False,False,36,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'bakeries', 'title': 'Bakeries'}]",False
+5,VREXC353INWXdSyTYvt8Lg,Oaxaca Taqueria,1116 Bedford Ave,3.5,$$,11216,True,True,False,168,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+6,5fUY5sq00VMPdb1SDJWBug,New Mexico Place,189 Graham Ave,3.5,$,11206,True,True,False,197,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'seafood', 'title': 'Seafood'}]",False
+7,6mdT2r5kIOrx-DUlR5bmOg,Cantina Cumbancha,232 N12th St,4.0,$$,11211,True,True,False,59,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+8,Lq9HxEUrkceCUDut00qlHQ,El Kucho Mexican Restaurant,141 Wilson Ave,4.0,$$,11237,True,True,False,203,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+9,uipFunIVqRWwopfEvrscyQ,Casa Mezcal,86 Orchard St,3.5,$$,10002,True,True,False,410,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+10,vFS4XkHymNm0agxIVf2mhw,Cinco de Mayo Restaurant,1202 Cortelyou Rd,3.5,$$,11218,True,True,False,223,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,a2BkT6uUKDpzhLalkksJsg,Tacombi - Upper East Side,202 E 70th St,4.5,,10021,True,True,False,16,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+12,JUQ1QYsbsWobgYiPn4zp7Q,Panchitas Place,709 5th Ave,4.0,$$,11215,True,True,False,119,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+13,J7hRmPAGnOcd2OJsN_eV9g,El Mariachi Restaurant,6712 Roosevelt Ave,4.0,$$,11377,True,True,False,54,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+14,GCx7TnLKgLtUcXLIfQYfFA,Casa Azul,369 7th Ave,4.5,,11215,True,True,False,80,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+15,wO9FMvtYqsJoYrnHDASE0A,Don Pancho Villa Restaurant,189 Borinquen Pl,4.0,$$,11211,True,True,False,242,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",False
+16,t2nLcM6iuDDtBFfBbUI4_g,Fatty Daddy Taco,310 9th St,4.0,$,11215,True,True,False,388,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+17,AgAkUVLN_axMY-bzbNCfCw,Yuca Bar,111 Avenue A,4.0,$$,10009,True,True,False,1817,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'tapas', 'title': 'Tapas Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+18,-xeLK9VppWFh6AtP26Hxpg,Los Papi's,77 Bridge St,4.5,$,11201,False,False,False,76,"[{'alias': 'latin', 'title': 'Latin American'}]",False
+19,yl214H_cUd1intjVAeE1Mw,Casa Publica,594 Union Ave,4.0,$$$,11211,True,True,False,125,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+20,4sHkiQ0qURBjL_gVLQbGPw,Taqueria Diana,524 9th Ave,3.5,$$,10018,True,True,False,222,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+21,4ttqjZMCsfz6X0kQ_KR0xQ,Orale Mexican Kitchen,341 Grove St,4.0,$$,07302,False,True,False,1140,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+22,vUzvlghgEgGClsdiwz2Bfw,Taqueria Santa Fe,9407 Astoria Blvd,4.0,$,11369,True,True,False,126,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+23,3kDlekYKGTPXqiLIUcC6Ng,Mama Lupita's Bistro,904 4th Ave,5.0,,11232,True,True,False,20,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+24,t86q8MbsrW8pB8bmfwPWTw,Blockheads,954 2nd Ave,3.5,$$,10022,True,True,False,465,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+25,4UxmxAqehEIh7fYrzUEA7A,Tacovision,244 E 53rd St,4.5,$$,10004,True,True,False,129,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",False
+26,_Pz5L7DGORcaThGB4CWcfg,La Loncheria,41 Wilson Ave,4.5,$$,11237,True,True,False,64,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+27,V9jFJfuK3FzWCJGoY15EgQ,Blue Maiz,606 8th Ave,4.5,$,10018,True,True,False,248,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+28,Wc133R7s_lyxxPuiFEh20w,Serrano Salsa,4979 Broadway,5.0,,10034,True,True,False,19,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+29,Y6FMtiM2Q3CwcuxI0E4USQ,Blue Agave,7215-B 3rd Ave,4.0,$$,11209,True,True,False,254,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+30,_PWUuHHqyfJBrTROPR72Fw,The Taco Shop,166 W 4th St,4.0,$,10014,True,True,False,367,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+31,hn8gzbzCxwvpfA9wG7AjXg,La Fondita,577 5th Ave,5.0,,11215,True,True,False,8,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+32,-Qn5nXGhxWHNePA0dYmPSg,Tacos Times Square,43 West 55st,4.0,$,10019,True,True,False,111,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+33,NcIUA8l_kmbPEwqI9lzELg,Anejo,668 10th Ave,3.5,$$,10036,True,True,False,697,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",False
+34,5Ota_iMwlPLPrap-KfQrgw,Benny's Burritos,113 Greenwich Ave,3.5,$$,10014,True,True,False,774,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+35,GauXFEjAMUY1cy-Hr3aWuA,Mezcal Kitchen JC,665-A Newark Ave,4.0,$$,07306,True,True,False,104,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+36,z_emTJ2d3kDEe8mz3w-KNw,Alta Calidad,552 Vanderbilt Ave,4.0,$$,11238,True,True,False,209,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+37,02QBPRcN0LYO3neX_oqx4Q,Gordo's Cantina,140 St Nicholas Ave,4.0,$$,11237,True,True,False,242,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+38,JywbRdA7yskb-06WbjUjKw,Paquito's,143 1st Ave,3.5,$$,10003,True,True,False,259,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+39,tK_4ECZ0EPIhW8588hfn5g,El Nopal Restaurant & Juice Bar,631 5th Ave,4.0,$$,11215,True,True,False,120,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",False
+40,4bSYj9nl_mAXIqpA2loIag,Oaxaca Taqueria,1198 1st Ave,3.0,$$,10065,True,True,False,99,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+41,Ck4qyOc_m6uxz0uC3l-NTA,El Paso Restaurante Mexicano,123 E 110th St,4.0,,10029,True,True,False,24,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+42,ePKsXWq7alN3Q1kQ6cKaUg,The Red Grill,1701 2nd Ave,4.5,,10128,True,True,False,28,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,DGa4PysLx10aRnXqRQ4Cng,La Mesita Restaurant,1513 Myrtle Ave,4.0,$,11237,True,True,False,84,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+44,ly5qAJeCC7z3ShSQ9kh3Ug,Frida's Tacos,5786 Mosholu Ave,4.5,,10471,True,True,False,44,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+45,QH3VbBAf7MlePoaipxT4pA,Taqueria Kermes,66-36 Fresh Pond Rd,4.0,$$,11385,True,True,False,405,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+46,UJYLVyqur-3dX9DtUDkzrg,Xochitl Taqueria,1015 Fulton St,3.5,$$,11238,True,True,False,163,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+47,MRF4bNFPAyHe2rMS1yZobg,El Toro Mexican Grill,69 New St,3.0,$,10004,True,True,False,114,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+48,bG68AUaOLsxqWKZ1iN-Ikg,Bridge Coffee Shop,73 Bridge St,4.5,$,11201,False,True,False,30,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'latin', 'title': 'Latin American'}]",False
+49,OGM4aom3HmTGV10WN_zW1w,Bella's Place Restaurant,87-77 Sutphin Blvd,4.0,$,11435,True,True,False,64,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,HvdQVxpWHU9mmH0I_gtdKA,Cocina Consuelo,,5.0,,10031,False,True,False,27,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+1,c921DfWPCxG5qJ687TU6Xw,Burrito Republic,59-15 71st Ave,4.5,$$,11385,True,True,False,109,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",False
+2,tRAfOBAKvB3Lt8SrqGSijg,Taco King,6405 108th St,4.0,$,11375,True,True,False,148,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+3,zVvEFNvlyBbQ6edjIE2gBg,Burrito Bar,307 Flatbush Ave,3.0,$$,11238,True,True,False,724,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+4,zT93JCAGIuHkLaD2YenUgQ,Los Cuernos,499 Washington Blvd,3.5,$$,07310,True,True,False,142,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+5,4rAXH_bl_iJ1BwHp7I3rYg,Al Horno Lean Mexican Kitchen,417 W 47th St,3.5,$$,10036,True,True,False,255,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+6,VLU_pUKzdAPSr_dBAFZEfQ,Girasoles Mexican Cuisine,184-01 Jamaica Ave,4.5,$$,11423,False,True,False,67,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+7,PZWhzOHAkT6G20kNAOSQrw,Mi Lindo San Miguelito,257 W 231st St,4.0,$$,10463,True,True,False,42,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+8,QjMeljDv9TH5BWzsDfwLVw,Flor de Azalea Cafe,902 34th Ave,4.5,,11106,True,True,False,48,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+9,QwL5LS436Xjo9MHFi2rc-g,Agave,140 7th Ave S,3.5,$$,10014,True,True,False,1290,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+10,BXtZKlJQ1H5WQf1ewO0HFg,Aztec Soul,3372 Atlantic Ave,3.5,$,11208,True,True,False,85,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,6ptX8V8WW_IzhHXLJ4SRAA,Dos Toros Taqueria,465 Lexington Ave,3.5,$$,10017,True,True,False,182,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+12,UlDO0B-Km4md4ydftjfvaQ,Mexology,28-17 Jackson Ave,3.5,,11101,True,True,False,2,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'food_court', 'title': 'Food Court'}]",False
+13,54hPnm8Z4rJST1CZWaOznw,Pampano,209 E 49th St,4.0,$$$,10017,False,False,False,558,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}]",False
+14,U02ibutbgrC3uQzEq4w2ww,Guadalajara De Dia 2,566 Seneca Ave,4.0,$,11385,True,True,False,87,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+15,adDPQU75YmsQDx7n4xxw8A,Mezcals Mexican Restaurant,223 5th Ave,3.0,$$,11215,False,True,False,154,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+16,VsqHs36uLxhqmjo60r1aJA,Habana To-Go,229 Elizabeth St,4.0,$,10012,True,True,False,271,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cuban', 'title': 'Cuban'}]",False
+17,jhvlGPnHMZYJUMrc2XrSDg,Estrellita Poblana,2231 Westchester Ave,4.0,$$,10462,True,True,False,270,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+18,kn7uzFOmLsePDXlN49qYwQ,Newyorktitlan,1525 Gates Ave,5.0,$$,11237,False,True,False,148,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",False
+19,PPsevWepXv8XJjUc2QBOFQ,Don Taqueria at Ben's Deli,32 Avenue B,5.0,,10009,False,False,False,1,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+20,t9JRIzyQoJU29WeVBLU7Lw,Maya Taqueria,637 Vanderbilt Ave,3.5,$$,11238,True,True,False,389,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+21,-nDguLGH07wnUx2kFGCFTQ,Taco Azul,10-08 Clintonville St,4.0,$$,11357,True,True,False,172,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+22,oNgT6-rh-2TOeAF16AxXVw,Tacos & Tequila,1742 2nd Ave,4.5,,10128,True,True,False,14,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+23,6eihmCzFJvolelWSW7-VPQ,La Esquina Del Camaron Mexicano,80-02 Roosevelt Ave,4.5,$$,11372,False,True,False,52,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+24,zxdsVR_hHUzhBFfus4yd7A,Dos Caminos,675 Hudson St,3.0,$$,10014,True,True,False,1030,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+25,Wm6vj0ekRAzZnaeaBEkOag,Taqueria Downtown,236 Grove St,4.0,$$,07302,True,True,False,1804,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+26,5AsVCBQoJeTomvaw-_IaUQ,La Taqueria,572 Grand St,4.0,,11211,True,True,False,19,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+27,yGQT6OZ-nNIhTKj32wRlmA,Bar Bolinas,455 Myrtle Ave,4.0,$$,11205,True,True,False,125,"[{'alias': 'newamerican', 'title': 'American (New)'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+28,ox36ejKIJqE0lALCiZu0IA,El Patron,194-01 Northern Blvd,3.5,$$,11358,True,True,False,698,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+29,7B7lFbjmXqim9LCpr-jBQg,Los Pollitos III,499 Myrtle Ave,2.5,$$,11205,True,True,False,159,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+30,hbpdp37s9TvA1lsnHbSsyQ,Fonda Garibaldi,6732 13th Ave,4.5,,11219,True,True,False,6,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",False
+31,qKqWyiI_LD3OU_gxBdhEoA,Compadres Restaurant,92-21 Liberty Ave,4.0,$,11417,True,True,False,71,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+32,yKPRuBvD3ScCc18QrZ4Y6w,El Porton,3151 Broadway,3.5,$$,10027,True,True,False,189,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+33,TPN2at7fMDHxeGYuQdQZVA,Homemade Taqueria,7103 Grand Ave,4.0,$,11378,True,True,False,287,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+34,LU_DkQCMoM6sXNeOjuS1cA,Al Horno Lean Mexican Kitchen,9112 3rd Ave,4.5,$$,11209,True,True,False,37,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+35,6ezrABEThm48qv1qj8_FVw,Javelina,1395 2nd Ave,3.5,$$,10021,True,True,False,113,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'southern', 'title': 'Southern'}]",False
+36,529zJk9IcMZt4txd6ITTCA,Hungry Burrito,510 Morgan Ave,4.0,$,11222,True,True,False,20,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+37,xIi-TO8iDQCy1ZSHe11_Zw,El Paso Taqueria,64 E 97th St,3.5,$$,10029,True,True,False,228,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+38,xrKa2SpgWzPEEbji3Iw2DQ,The Calaveras,949 Columbus Ave,4.5,$$,10025,True,True,False,154,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",False
+39,Exlgsnzm5KjkooYE7AH3Uw,Yolpaqui Taqueria,1431 Forest Ave,4.0,,10302,True,True,False,99,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+40,LyCE268_fz_MAZieFZY1lA,El Cantinero,86 University Pl,3.0,$$,10003,False,True,False,536,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+41,ueL0t_7Yu_ev2RrWK9dgDA,Tacombi - Empire State Building,23 W 33rd St,4.0,$$,10118,True,True,False,188,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+42,FeSZi6LBCcAIipoSua6dXg,La Esquina - UES,1402 2nd Ave,3.5,$$,10021,False,True,False,164,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+43,_XPusO4eMV3L9TiD38I4gw,Al Horno Lean Mexican Kitchen,110 Pearl St,3.0,$$,10005,True,True,False,69,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+44,BxnrBKdLwdaEXyq97uxgKg,Cascalote Latin Bistro,2126 2nd Ave,4.5,$$,10029,True,True,False,361,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+45,OsnvNfvVnpjnFklon1s-vg,La Chula,137 E 116th St,4.0,$$,10029,True,True,False,188,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+46,QlIVC8__DE4R6IRJrf-CVQ,Mi Tierra Restaurant,732 Classon Ave,4.0,$,11238,True,True,False,51,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+47,yywIzZlBOAWHCeKqMcB7Gw,Factory Tamal,63 E 4th St,4.5,,10003,True,True,False,11,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+48,ulLQVyjtnWjsFttiOn2D8w,Under the Volcano,12 E 36th St,4.0,$$,10016,True,True,False,31,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+49,D37laxSajXqhhsaCYo4WSw,Taqueria Emilio,563 W 207th St,4.5,$,10034,True,True,False,75,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,D37laxSajXqhhsaCYo4WSw,Taqueria Emilio,563 W 207th St,4.5,$,10034,True,True,False,75,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+1,2jjxdN9FXWVdx6DEX83krQ,Hoja Santa,40-17 30th Ave,5.0,,11103,True,True,False,65,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+2,Xx-tBWUDuRJLXVchU93NxA,East Coast Street Tacos,521 Stanley Ave,4.5,,11207,True,True,False,3,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'empanadas', 'title': 'Empanadas'}]",False
+3,6AJwsgXr7YwsqneGVAdgzw,Las Catrinas Mexican Bar & Eatery,32-02 Broadway,4.0,$$,11106,True,True,False,341,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+4,NMvGg6AwvEMUEjIF1z9Ghw,Puebla,88 Essex St,3.5,$,10002,True,True,False,27,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+5,7xW-mmylJCNQgYw88Ur89Q,La Posada Mexican Food,364 3rd Ave,3.5,$,10016,True,True,False,215,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+6,X6A6a8hTPd1pZFNZE80TfA,Tacos Cuautla Morelos,438 E 9th St,3.5,$$,10009,True,True,False,125,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+7,UlGSfUiVs4V5oH9C4AHD5w,Cielito Lindo Bistro,665 Nostrand Ave,4.0,,11216,True,True,False,19,"[{'alias': 'spanish', 'title': 'Spanish'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+8,1sW6sFt4RAsWJR777MMF1g,Quesadillas Doña Maty,255 East 110th St,5.0,,10029,True,True,False,1,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+9,Pikhqmsy370W2BXHnNfP0g,Taqueria El Gallo Azteca,75 Victory Blvd,4.5,$,10301,False,True,False,123,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+10,iPc-zPgcpgeSo76xl5Jbpw,The Maze,32 W 32nd St,4.0,$$,10001,True,True,False,478,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+11,_fff8IsejG9-2cFbf-CnrA,Lupita's Restaurant,904 Melrose Ave,3.0,$$,10451,True,True,False,14,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+12,Ahx8GsuAGUl8TgqCWP7uXw,Temerario,198 8th Ave,4.0,$$,10011,True,False,False,291,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+13,GXK3j99VZK-7JJ0YrtIR0w,Parada 47,526 W 47th St,4.0,$,10036,True,True,False,51,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+14,hKkPlYmHoS9Nb_UbGGqx8A,Street Taco,358 3rd Ave,4.0,$$,10016,True,True,False,392,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",False
+15,n-Z4HSwVeiDyA7AotduUNw,Sonora,174 Howard Ave,3.5,$$,11233,True,True,False,161,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+16,v9u61QOTbs6RqZC1iEQtRQ,Casa Lupita,1007 Broadway,4.0,$$,07002,True,True,False,70,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+17,dfVW6VGtn7B9gxUSDLPgxg,Bushwick Taco,1081 Fulton St,4.5,,11238,True,True,False,7,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'desserts', 'title': 'Desserts'}]",False
+18,VUsjoFZ15OVQ4Ol7zt80zg,La Lomita Mexican Deli,3868 10th Ave,3.5,$,10034,True,True,False,39,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+19,0oRYwB_SLqjHptvUQwwe2w,Tajin,85 Greenwich St,3.5,$$,10006,True,True,False,237,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+20,-FT-wCObDQJaXns_l8b5fw,Mex 'N Roll,154 North 7th St,4.5,$,11249,True,True,False,25,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+21,cy0vBvZu2Eb4XtRFCp8Seg,Conmigo,1685 1st Ave,4.0,$$,10128,True,True,False,235,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+22,HiO_eEu1kwUDM30YEjoG-g,Regalo De Juquila,1209 Myrtle Ave,3.0,$,11221,True,True,False,116,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+23,gAAG2KJ_pdfAK-_UVN-bjQ,Oaxaca Taqueria,130 Grand St,3.0,$$,11249,True,True,False,49,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+24,P5gcdU1DX9M1V4W-V9o-wg,The Bear,48 S 4th St,4.5,$$,11211,True,True,False,34,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+25,WJIU2Cu6i6-9n-ZUE5rEQA,Sabor A Mexico Taqueria,160 1st Ave,3.5,$$,10009,True,True,False,97,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+26,Jh6bSOaw0ftGh9ONiwr7nA,Los Tres Chilitos,456 Central Ave,4.0,$,07307,True,True,False,208,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+27,6rM-N1SBbKPC7DWZNg5awQ,Los Portales,2508 Broadway,4.0,$,11105,True,True,False,290,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+28,lKn-9P_F6cIwT0uL3xDnbw,Don Patron Bar & Grill,1217 Church Ave,4.5,$$,11218,True,True,False,52,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+29,eTWPn3e-BVBAjXKLDlB84A,Lobo Loco,8530 3rd Ave,3.0,$$,11209,True,True,False,335,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+30,zNcDCPiUsE5aT6jyaCVtmA,Fresco's Cantina,12-14 31st Ave,4.5,$$,11106,True,True,True,243,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+31,ZRyWU34AfikUVwCzmWL59w,Juquila Restaurant & Bar,40-12 83rd St,4.5,,11373,True,True,False,12,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+32,Xjswj531-FkRZPpcccU6kQ,Vida Verde,248 W 55th St,4.5,$$,10019,True,True,False,1186,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+33,8uuMkezIN1c8zGEWkaMRqg,Los Tacos No. 1,136 Church St,4.5,$,10007,True,True,False,189,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+34,mbsMhE448VL0vmuQL1IyiA,Don Nico's,90-08 161st St,4.0,$$,11432,True,True,False,156,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+35,JzUg9hbxpAbyvs0JzbFruA,Noche Mexicana,842 Amsterdam Ave,3.5,$$,10025,True,True,False,265,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+36,jYAqup9AF9N9wYAWYanZ-A,Arriba Arriba Midtown,762 9th Ave,3.5,$$,10019,True,True,False,919,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",False
+37,Z2Uv82mITzdrywt7274nVQ,El Divino Rey,6808 New Utrecht Ave,5.0,,11219,True,True,False,5,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+38,h_ITJux-MF0YcmZx8KRHtA,Taco Edition,800 Grand St,4.0,$,11211,True,True,False,89,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+39,_3U3dNdAw-2yD67xAQbCPw,Taqueria El Patron Mexican Grill,191 5th Ave,3.5,,11215,True,True,False,2,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+40,TyyFMUZZrNydEP4pUK-qPA,Carlos & Gabbys,100 West 83rd St,5.0,,10024,True,True,False,2,"[{'alias': 'kosher', 'title': 'Kosher'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+41,_gwi6OqeNiTmWUBf1lcRGw,Fajitas Sunrise,5924 Myrtle Ave,3.5,$$,11385,True,True,False,161,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+42,6k6PRNSLnExNes-iGcu1EA,Taqueria La Nortena,668 Manhattan Ave,3.5,$,11222,True,True,False,128,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,mBFnE5EDUwpZiEsSf_1piA,Los Tacos City Habanero,48th Ave Vernon Blvd,4.5,$,11101,True,True,False,52,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+44,1UqrqRx_35w87pQeg17Gqg,El Toro Blanco,257 6th Ave,3.5,$$,10014,True,True,False,386,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",False
+45,Av0BsdlotLFoEar5u1rDzg,Gueros,605 Prospect Pl,4.0,$$,11238,True,True,False,600,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+46,juULANORQ2onWkEvSMjlaw,Al Horno Lean Mexican Kitchen,1089 2nd Ave,3.5,$$,10022,True,True,False,130,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+47,EZ3vOz-DCwhn_lcFF0HZEQ,Fidela's Restaurant,164-12 69th Ave,4.0,$,11365,True,True,False,58,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+48,xkSoYI8UGUhr-dE3iY2dPw,Cabron - Tacos Y Mariscos,25 Essex St,1.0,,10002,True,True,False,1,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'fooddeliveryservices', 'title': 'Food Delivery Services'}]",False
+49,xN4yKQMzo3PIoQlFamUOLQ,La Esquina - Midtown,200 W 55th St,4.0,$$,10019,False,True,False,205,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,98Bm2w9RzNJQZo4U3jSgQQ,Tacos Times Square,134 E 27th St,4.0,$,10016,True,True,False,123,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+1,FkA9aoMhWO4XKFMTuTnl4Q,Atla,372 Lafayette St,3.5,$$,10012,True,True,False,301,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+2,4sNPRRefpFQl-fE_aU5XaA,Refried Beans Mexican Grill,591 Fort Washington Ave,3.5,$$,10033,True,True,False,278,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+3,bPnRAlcQovtdomokiKOjYA,Ta-Keto Restaurant,314 39th St,5.0,,11232,False,True,False,1,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+4,2h9uosx5vBHWJR23T0PhqA,Maya Taqueria,168 5th Ave,4.0,$$,11217,True,True,False,80,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+5,J_Nb9O4fKYwz28gkl-Y-_Q,La Patrona Restaurant,812 E 149th St,4.0,,10455,True,True,False,19,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+6,4yEZo9Ei4NZB8nUCCevKgg,Maizal Restaurant,990 Bay St,4.0,$$,10305,True,True,False,256,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}]",False
+7,CnQg2E3xytCY_TlEKhd10g,Pinks Cantina,348 Bowery,4.5,,10012,True,True,False,7,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+8,5LO5C4doYF_UP2OB29zYMg,Empellón Taqueria,230 W 4th St,3.5,$$,10014,True,True,False,708,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}, {'alias': 'bars', 'title': 'Bars'}]",False
+9,EpOyiHAOuCpnrHNuKZlqcA,Tortilleria Taqueria Lenchita,618 E 183rd St,5.0,,10458,False,True,False,5,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+10,8p1HTzXEcC3TCbLz59xMng,La Diagonal,185 St Nicholas Ave,4.0,$$,10026,True,True,False,217,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'tapas', 'title': 'Tapas Bars'}]",False
+11,EZ-ec_6fXPsZiDshbFMnjA,The King Of Taco,9017 31st Ave,4.0,$$,11369,True,True,False,145,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",False
+12,Gl13gO27l6HYZ9h1GWVNIA,El Torito,2132 Cruger Ave,3.5,$$,10462,True,True,False,24,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+13,4IE9hPuy5QIWVdaETUEG_Q,El Sombrero,108 Stanton St,3.5,$$,10002,True,True,False,342,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'latin', 'title': 'Latin American'}]",False
+14,POGfmcCkuLpkP_Vz98DuwQ,Caliente Cab,61 7th Ave S,2.5,$$,10014,False,True,False,834,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+15,bl4yPiWAre56vxbiRpdAkQ,Taqueria Los Jarritos,121 Nagle Ave,4.0,$,10040,True,True,False,36,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+16,9vISn2VuyhBgB3C1I6pyvw,Dos Toros Taqueria,189 Bedford Ave,3.5,$,11211,True,True,False,148,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+17,1Ylu26XW3F6gSJWdFw6-8g,Great Burrito,100 W 23rd St,4.0,$,10011,True,True,False,253,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+18,s3VRd36vPO4RNrm4XNQDWg,San Jose Tulcingo,109 E 153rd St,4.5,$,10451,True,True,False,40,"[{'alias': 'delis', 'title': 'Delis'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",False
+19,AIw_q3kqThesAPHZZ2A85A,Habanero Cafe Mexican Grill,715 Flushing Ave,3.5,$$,11206,True,True,False,61,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+20,5PD9q8jp20c4vUBX8Z81sg,Tacos El Rey,3168 Coney Island Ave,4.0,$,11235,True,True,False,83,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+21,nC9FlWwB5ukca5BwYllQYw,Tulcimexico Restaurant,2798 Frederick Douglass Blvd,4.5,,10039,True,True,False,35,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+22,0Nu2kmbWnfP7GD-NZ5h3fw,Tacos Los Poblanos,5320 5th Ave,4.5,$,11220,False,False,False,42,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",False
+23,iaMuLypgQa8yaDWOOmlGVg,Zona Tribecca,353 Greenwich St,3.5,$$,10013,True,True,False,39,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+24,iUsk8CPoDyoBmwVdU1_9QQ,Sidewalk Tacos,Bleecker & Thompson,4.0,$,10012,False,False,False,33,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",False
+25,3l_Zr3YGr6cCwcKIAcPvOg,Mezcal's Mexican Restaurant- Carroll Gardens,522 Court St,3.0,$$,11231,False,True,False,64,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+26,nt84nQ3x-hfQYR2CT1P2IA,El Pitallito Mexican Restaurant,3854 Broadway,3.5,$,10032,True,True,False,24,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+27,UsgJVEPV5JF9lam-4X2f9w,Taqueria El Buen Gusto,277 Neptune Ave,4.5,,11235,False,False,False,20,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+28,nV-LbnEV_2OwXvXRany1sg,Hungry Burrito,811 Seneca Ave,4.0,$$,11385,True,True,False,62,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'bars', 'title': 'Bars'}]",False
+29,zDoqJFvmKnjxBmhechlLFg,Cena Brooklyn,601 Greenwood Ave,4.0,,11218,True,True,False,77,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+30,qZfJbJPxZUkC66lRldcbGA,Tulcingo Restaurant,665 10th Ave,3.5,$$,10036,False,True,False,282,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+31,D4tGzWIAM7Z3HNoNxPS2Gw,El Burrito Nacho,1636 Broadway,4.0,$$,11207,True,True,False,62,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+32,HfVMTVjgxumjFpUF_T8mqg,Taqueria Sofia,187 Suydam St,4.0,$,11221,True,True,False,114,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+33,hR1bG0jgd2_Z9Q5L6siTEw,Antojito Mexicano,6th Avenue & 28th Street,4.5,$,10001,False,False,False,37,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodstands', 'title': 'Food Stands'}]",False
+34,Ay38C7i2ziGjjoG9Q6Bo0A,Grand Morelos,727 Grand St,3.5,$,11211,True,True,False,205,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}]",False
+35,1-QgkACd4atRtc4AOGWz_Q,Tacos Y Jugos Genesis,7804 Woodside Ave,4.0,$,11373,True,True,False,134,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}]",False
+36,e80JDJkf5WdRe5GorvEcgg,San Loco,111 Ave C,3.5,,10009,True,True,False,11,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+37,ZIfh0Vv86ktGZDdM3YME-w,Mexico Lindo Restaurant,459 2nd Ave,3.5,$$,10010,False,True,False,257,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+38,2pGPW6ps1UBSVJNytos2TQ,Te Quiero,11114 Rockaway Beach Blvd,4.0,,11694,True,True,False,20,"[{'alias': 'juicebars', 'title': 'Juice Bars & Smoothies'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+39,6NBXf3fOJYL365PoaD2qAA,Manjares Mexico,4408 Broadway,4.0,,11103,True,True,False,18,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+40,_0uNkBtac1qBz2zSGZ0FTQ,Ole Mexican Grille,126-11 15th Ave,4.0,$,11356,False,True,False,158,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+41,lzYVfr6mV1fgQVBQRDyMlg,Burrito Blvd,72-64 Metropolitan Ave,4.5,$$,11379,True,True,False,62,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+42,hmx8vUMYJPTbfgN8c7A5LA,El Aguila Dorada Restaurant,830 Broadway,4.0,$$,07002,False,True,False,307,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+43,-SYHh9DWvYuBZxkA4gfzHg,Calabrije's Margaritas & Tacos,234 Starr St,4.0,$$,11237,True,True,False,117,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+44,x9wa2M7gvf32swUSBP3uXA,Blockheads,Worldwide Plz,3.5,$$,10019,True,True,False,788,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+45,gCwbwgUkihSjK75EpzwWHQ,San Loco,111 Stanton St,3.5,$,10002,True,True,False,272,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+46,p3c3-cIIHjM090iZlA8WIQ,Estrellita Poblana II,2819 White Plains Rd,3.5,$$,10467,False,True,False,124,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+47,jfNc9_Of6ojLl4DVG9QKCw,San Pedro Inn,320 Van Brunt St,4.0,$$,11231,True,True,False,22,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",False
+48,XJ8EaZig8kn5z984eeoCRQ,Dos Toros Taqueria,11 Carmine St,3.5,$,10014,True,True,False,288,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+49,mykhv_-D5kREsbwCjeB1AA,Los Compadres,1224 Anderson Ave,4.5,$$,07024,True,True,False,154,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+,Id,Name,Location,Rating,Price,Zipcode,Pickup,Delivery,Reservation,Review Count,Categories,Status
+0,Fp2QuKOu_zCjOxbyCLfnjw,El Rey Restaurant,25-21 Astoria Blvd,3.5,$$,11102,True,True,False,76,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+1,bU0Ymp2m_6sq3NPw_rXGFw,Lobo,218 Court St,3.5,$$,11201,False,True,False,329,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+2,GKF0TK-aSlPnCFxfvz5v7g,Paraiso Azteca Restaurant,1681 E 16th St,3.5,$,11229,True,True,False,61,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+3,kJCjKpwcOFA1fal0fuNVRg,Tacoria,24-26 Erie st,4.5,$$,07302,True,True,False,196,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+4,2kPGo5wA33eBJj-OzA96tQ,Bar San Miguel,307 Smith St,4.0,$$,11231,True,True,False,138,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+5,8J5Nq59GFqWEcKDQlRZj2A,La Pasadita Taco Truck,957 Broadway,4.5,$,11206,False,False,False,9,"[{'alias': 'streetvendors', 'title': 'Street Vendors'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+6,yqU1-chsjix3T4EMY2MyxA,Athens Grill & Sports Bar,3011 30th Ave,4.0,$,11102,False,True,False,199,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",False
+7,DmLmy-enZs9wOWhFJF3p5A,El Barrio Burritos,796 Franklin Ave,3.5,$,11238,True,True,False,228,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+8,Hopxh5FIBCwmIc7PMotaTw,Las Chilangas,766 Seneca Ave,5.0,,11385,True,True,False,10,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+9,vN1CYP0WNSPfdmZAstfdOg,Sabor A Mexico 2,233 E 77th St,3.5,$$,10021,True,True,False,183,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'salad', 'title': 'Salad'}, {'alias': 'soup', 'title': 'Soup'}]",False
+10,tszw0lhg-QBaZFzGjDZb3w,Taqueria Los Parientes,6908 Fresh Pond Rd,4.5,,11385,True,True,False,6,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+11,JnOYZqzRBHkEB_mvMXph_g,Juquila Kitchen and Bar,39-05 29th St,4.0,$$,11101,True,True,False,104,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}, {'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+12,ZsCoRBQeHfdxi9qLlfH4dg,Tlaquepaque Restaurant,347 North Ave,4.5,$$,10801,True,True,False,119,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+13,hAPJ5u7-gg358T2Y8mT91Q,Nacho Macho Taco,591 Knickerbocker Ave,4.5,,11221,True,True,False,59,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+14,I7dZQ_D354WWLXqHWrzqYg,Avocados Mexican grill,428 Kings Hwy,5.0,,11223,True,True,False,26,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",False
+15,hE2GaFRKhafpUPAYyNRTCQ,Tributo,42-25 Vernon Blvd,4.0,,11101,True,True,False,17,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+16,7CfaiHE11MO2zAiu3w6bsw,Taco Dumbo,31 W 52nd St,4.0,$$,10019,True,True,False,306,"[{'alias': 'latin', 'title': 'Latin American'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+17,efJMQrWgiWJEflWQGJ4-mw,El Jeffe Park,214 Parkside Ave,3.5,,11226,True,True,False,13,"[{'alias': 'newmexican', 'title': 'New Mexican Cuisine'}]",False
+18,Z3wa8EmAr0yfihPZZMLE_A,LES Crêpes & Taqueria,25A Essex St,4.0,$,10002,True,True,False,87,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+19,H08vCdbcP3oy0cBEKqM5KQ,El Rey del Sabor,166 E 60th St,4.0,$,10021,False,False,False,71,"[{'alias': 'foodstands', 'title': 'Food Stands'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+20,ve78MsETSSr4f_9yc3wmwA,Astoria Taco Factory,28-02 21st St,4.5,,11102,True,True,False,40,"[{'alias': 'tacos', 'title': 'Tacos'}]",False
+21,Pf3tk5fYN-GVxXWRokjIWg,Colonia Verde,219 Dekalb Ave,4.0,$$,11205,True,True,False,174,"[{'alias': 'latin', 'title': 'Latin American'}]",False
+22,SNNDz7nTCL1lf9yEY5DaBA,Margarita Bar NYC,709 8th Ave,3.5,$$,10036,True,True,False,37,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+23,wflQFYM4PHZM5sfWXl0aOQ,Al Horno Lean Mexican Kitchen,36 Lexington Ave,3.0,$$,10010,True,True,False,95,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+24,6403iqg-_a-sdg-DrKEfhw,Birria-Landia,Roosevelt Ave & 78th St,4.5,$,11372,False,True,False,288,"[{'alias': 'foodtrucks', 'title': 'Food Trucks'}, {'alias': 'tacos', 'title': 'Tacos'}]",False
+25,b_x0NR7xLq_llrXOEo-nhg,Mitla New York City,213 6th Ave,5.0,,10014,True,True,False,3,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+26,rNldYbdOcJRGmLgD29ZELA,Don Panchito,,4.0,$,11211,False,False,False,56,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'foodtrucks', 'title': 'Food Trucks'}]",False
+27,menL_0IVFYfpuhhgvKuCsQ,Antojitos Mexicanos,511 West 181st St,4.5,$,10033,True,True,False,22,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+28,HwDu45zV90Wmprn6sPttCQ,Mexican Festival,2672 Broadway,3.0,$$,10025,True,True,False,271,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+29,_2aXZ9o3Yl_coNw9-IdqMQ,Mi Ranchito,1468 St Nicholas Ave,3.5,$,10033,True,True,False,44,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+30,qLUH_0H8ct_DTSqrjwd3DQ,DORADO Tacos & Quesadillas,570 Lexington Ave,3.5,,10022,False,True,False,27,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+31,o5fBZCGs2HCkibIxQ2-2ig,Las Margaritas Restaurant & Bar,6712 Fresh Pond Rd,4.0,$$,11385,True,True,False,82,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'spanish', 'title': 'Spanish'}]",False
+32,J3xgUpWM_ny5bh69WRvJPw,Doña Zita Mexican Restaurant,1221 Bowery St,4.0,$,11224,True,True,False,74,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+33,-ZQfIRtViZowsgaBZfsG4Q,Villa Pancho Taqueria,472 Myrtle Ave,3.5,$,11205,True,True,False,46,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+34,VzdToJAHuLY07TlXZTdIwA,Tito Murphy's,346 W 46th St,4.0,,10036,True,True,False,73,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'latin', 'title': 'Latin American'}]",False
+35,RGSjUKs-hNpCSafrFcU-VQ,La Flor,53-02 Roosevelt Ave,4.0,$$,11377,True,True,False,245,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",False
+36,qmoA7CY8hhU4RIUGAfRYhg,Taqueria Huarache,16 E Mt Eden Ave,4.0,$,10452,True,True,False,37,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+37,5IR02V3Bbkcbs14yfKNDTQ,Taqueria San Pedro,3662 Broadway,3.5,$,10031,True,True,False,131,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+38,a9rBsBs6DFNbsKvAmbq3BA,Emilia's Pizza & Authentic Mexican Food,3705 28th Ave,4.5,$,11103,True,True,False,43,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'mexican', 'title': 'Mexican'}]",False
+39,Jvy_dhGSmiQM3Thf571FxA,Vista Hermosa Restaurant,1201 Evergreen Ave,3.5,$$,10472,True,True,False,53,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",False
+40,kdBM_FLfYU92BeiRfeCisw,Haab,396 6th Ave,3.5,$$,11215,True,True,False,173,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+41,VIIfYEzIppjps0K_J_8zLg,El Rio Grande,160 E 38th St,3.5,$$,10016,True,True,False,636,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+42,q8YAM38nAsVoRcWOER9I9A,Parrilladas Sunrise,83-11 Northern Blvd,4.0,$$,11372,True,True,False,48,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+43,TV_rsstsxdcFh_YmaSSv_g,Jalisco Tacos,214 St Anns Ave,4.0,$,10454,False,True,False,19,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+44,0TS4s4QtnM9MqDAAw93Ecw,La Villita,1249 Avenue U,3.5,$,11229,True,True,False,59,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+45,Y1dM7kSfq7PoB7NrDQFpdQ,Picante,3424 Broadway,3.0,$$,10031,True,True,False,311,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+46,WZynqsGjqQLc_T8R80_-7g,Yellow Rose,102 3rd Ave,4.5,,10003,True,True,False,28,"[{'alias': 'tex-mex', 'title': 'Tex-Mex'}]",False
+47,CEUEvlh2jDfGpj-2BuTInA,Oaxaca Taqueria,250 4th Ave,3.5,$,11215,True,True,False,320,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+48,s3Zs6FNW-FUTA3ODWOFVsA,Adriana's Mexican Cuisine,10-12 E 15th St,4.0,,11230,False,True,False,9,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
+49,60sLpAHHl-IvANGTRzfCow,Tacos Grand Central,711 2nd Ave,4.5,$,10016,True,True,False,34,"[{'alias': 'mexican', 'title': 'Mexican'}]",False
