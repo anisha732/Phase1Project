@@ -104,8 +104,8 @@ def df_save_review(csv_file_path, parsed_results):
 thaidf = pd.read_csv('../Data/thaii.csv')
 mexdf = pd.read_csv('../Data/mexx.csv')
 
-thai_rev_df=pd.read_csv('/Users/anishamalhotra/Documents/Flatiron/Phase1Project/Data/thaireview.csv')
-mex_rev_df=pd.read_csv('/Users/anishamalhotra/Documents/Flatiron/Phase1Project/Data/mexreview.csv')
+thai_rev_df=pd.read_csv('../Data/thaireview.csv')
+mex_rev_df=pd.read_csv('../Data/mexreview.csv')
 
 #add column to df to specify Thai or Mexican restaurant
 thaidf['type']='Thai'
