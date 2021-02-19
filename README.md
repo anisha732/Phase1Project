@@ -52,7 +52,7 @@ See the full analysis in the Jupyter Notebook or review this presentation.
 For additional info, contact Anisha Malhotra at anisha732@gmail.com or Ryan Lewis at ry.james.lewis@gmail.com.
 
 # Repository Structure
-
+```
 ├── code
 │   ├── Data_Acquisition_Process.ipynb
 │   ├── Final Project 1 Notebook.ipynb
@@ -62,3 +62,4 @@ For additional info, contact Anisha Malhotra at anisha732@gmail.com or Ryan Lewi
 ├── Project1_Images
 ├── README.md
 └── Proj1Presentation.pdf
+```
