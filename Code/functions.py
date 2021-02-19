@@ -101,8 +101,8 @@ def df_save_review(csv_file_path, parsed_results):
     return new_df
 
 #importing all csvs
-thaidf = pd.read_csv('/Users/anishamalhotra/Documents/Flatiron/Phase1Project/Data/thaii.csv')
-mexdf = pd.read_csv('/Users/anishamalhotra/Documents/Flatiron/Phase1Project/Data/mexx.csv')
+thaidf = pd.read_csv('../Data/thaii.csv')
+mexdf = pd.read_csv('../Data/mexx.csv')
 
 thai_rev_df=pd.read_csv('/Users/anishamalhotra/Documents/Flatiron/Phase1Project/Data/thaireview.csv')
 mex_rev_df=pd.read_csv('/Users/anishamalhotra/Documents/Flatiron/Phase1Project/Data/mexreview.csv')
